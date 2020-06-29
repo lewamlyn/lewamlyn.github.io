@@ -18,7 +18,7 @@
   <entry>
     <title>乐活无限！</title>
     <url>/2020/06/28/2020-06-28-preface/</url>
-    <content><![CDATA[<p>你可能会好奇，为什么我要搞这个博客？其实很简单，just for fun!</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你可能会好奇，为什么我要搞这个博客？其实很简单，just for fun!</p>
 ]]></content>
       <categories>
         <category>随笔</category>
@@ -30,7 +30,7 @@
   <entry>
     <title>Markdown 学习笔记</title>
     <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
 <blockquote>
 <p>引用</p>
 </blockquote>
