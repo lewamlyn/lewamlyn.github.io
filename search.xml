@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>My First Post</title>
+    <url>/2020/06/05/2020-06-05-first_post/</url>
+    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
+<p>这是我的第一篇博客。</p>
+</blockquote>
+<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>乐活无限！</title>
+    <url>/2020/06/28/2020-06-28-preface/</url>
+    <content><![CDATA[<p>你可能会好奇，为什么我要搞这个博客？其实很简单，just for fun!</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>序言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown 学习笔记</title>
+    <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
+<blockquote>
+<p>引用</p>
+</blockquote>
+<p>***分割线</p>
+<h4 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h4><ul>
+<li>1</li>
+<li>2</li>
+</ul>
+<h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ol>
+<li>test1</li>
+<li>test2</li>
+</ol>
+<h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="https://lewamlyn.github.io">FUN</a></p>
+<h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src= "/img/loading.gif" data-src="http://maoapp.com/Mou_128.png" alt="picture"></p>
+<h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><p>代码行<code>int a;</code><br>代码段</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span> a=<span class="number">10</span>;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"%d\n"</span>,a++);</span><br></pre></td></tr></table></figure>
+
+<h4 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h4><table>
+<thead>
+<tr>
+<th>Tables</th>
+<th align="center">Are</th>
+<th align="center">Hard</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>First</td>
+<td align="center">Second</td>
+<td align="center">Third</td>
+</tr>
+</tbody></table>
+<h4 id="代办事项"><a href="#代办事项" class="headerlink" title="代办事项"></a>代办事项</h4><ul>
+<li><input checked="" disabled="" type="checkbox"> 已经做完的事情</li>
+<li><input disabled="" type="checkbox"> 还没做的事情</li>
+</ul>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+</search>
