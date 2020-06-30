@@ -16,6 +16,18 @@
       </tags>
   </entry>
   <entry>
+    <title>乐活无限！</title>
+    <url>/2020/06/28/2020-06-28-preface/</url>
+    <content><![CDATA[<p>你可能会好奇，为什么我要搞这个博客？其实很简单，just for fun!</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>序言</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown 学习笔记</title>
     <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
@@ -60,37 +72,6 @@
       </categories>
       <tags>
         <tag>Markdown</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>乐活无限！</title>
-    <url>/2020/06/28/2020-06-28-preface/</url>
-    <content><![CDATA[<p>你可能会好奇，为什么我要搞这个博客？其实很简单，just for fun!</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>序言</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>大秘密</title>
-    <url>/2020/06/30/2020-06-28-preface_full/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <div class="hbe-input-container">
-  <input type="password" id="hbePass" placeholder="" />
-    <label for="hbePass">您好, 这里需要密码.</label>
-    <div class="bottom-line"></div>
-  </div>
-  <script id="hbeData" type="hbeData" data-hmacdigest="da382d657780255da74de9f9ba6d0728e48b9f670851dcaa13e985043b3618a1">b76a604ffe65e8a40fde922922dc5d0348a9e88613abdbbd4b978fa176ba16025b0718716ca470d265d7fa2c5751689cf81d9bac7a61bae52831622b5d682b370e2afe74ba4ba60ede710f2fd180bbfadc18e6a9527d5e74745eb0d6bf845e304ecf041cebb7efb46c4e2d73ca6093f5b17dd7cf96fdbf196ef894ee892b741b73ac282f4906c4d9837e69c6b0e8bfc1</script>
-</div>
-<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>序言</tag>
       </tags>
   </entry>
 </search>
