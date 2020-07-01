@@ -9,7 +9,7 @@
      }
      else {
          $('[rel="icon"]').attr('href', "/favicon.ico");
-         document.title = 'Find it！' + OriginTitle;
+         document.title = 'You find it！' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);

@@ -54,7 +54,31 @@
 <li><input checked="" disabled="" type="checkbox"> 已经做完的事情</li>
 <li><input disabled="" type="checkbox"> 还没做的事情</li>
 </ul>
-]]></content>
+<h4 id="标签外挂"><a href="#标签外挂" class="headerlink" title="标签外挂"></a>标签外挂</h4><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% note [class] [no-icon] %&#125;</span><br><span class="line">Any content (support inline tags too.io).</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">[class]   : default | primary | success | info | warning | danger.</span><br><span class="line">[no-icon] : Disable icon in note.</span><br><span class="line"></span><br><span class="line">All parameters are optional.</span><br></pre></td></tr></table></figure>
+
+<div class="note default">
+            <p>default 提示块<br>换行测试</p>
+          </div>
+
+<div class="note primary no-icon">
+            <p>primary 提示块</p>
+          </div>
+
+<div class="note success">
+            <p>success 提示块</p>
+          </div>
+
+<div class="note info">
+            <p>info 提示块</p>
+          </div>
+
+<div class="note warning">
+            <p>warning 提示块</p>
+          </div>
+
+<div class="note danger">
+            <p>danger 提示块</p>
+          </div>]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
