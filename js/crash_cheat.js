@@ -4,7 +4,7 @@
  document.addEventListener('visibilitychange', function () {
      if (document.hidden) {
          $('[rel="icon"]').attr('href', "/joke.ico");
-         document.title = 'Come for more fun！ ';
+         document.title = 'Come here for more fun！';
          clearTimeout(titleTime);
      }
      else {
