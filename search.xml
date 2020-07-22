@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My First Post</title>
-    <url>/2020/06/05/2020-06-05-first_post/</url>
-    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
-<p>这是我的第一篇博客。</p>
-</blockquote>
-<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Markdown 学习笔记</title>
     <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
@@ -104,6 +89,52 @@
       </tags>
   </entry>
   <entry>
+    <title>My First Post</title>
+    <url>/2020/06/05/2020-06-05-first_post/</url>
+    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
+<p>这是我的第一篇博客。</p>
+</blockquote>
+<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Just for fun！</title>
+    <url>/2020/06/28/2020-06-28-preface/</url>
+    <content><![CDATA[<blockquote>
+<p>想写这篇文章很久了，现在在各项内容基本配置完成后，终于有时间来写完了。</p>
+</blockquote>
+<h1 id="v-0-0"><a href="#v-0-0" class="headerlink" title="v 0.0"></a>v 0.0</h1><p>最开始有建一个博客的想法是从想写些自己想写的东西开始的。人毕竟是社交动物嘛，写的东西总是想与人分享，但真的想要下键盘写些东西的时候才发现，对我而言，却没有一个地方适合发些自己的想法和记录。QQ 嘛，太花哨，而且不是很适合记录长文；微信嘛，加的长辈太多，我又不善与人理辩，于是也只能放弃。而且作为社交软件，这二者加的人太多太杂，总之，多有不便。</p>
+<p>一开始的想法是建个微信公众号，我也查了微信公众号的建立流程，感觉也挺麻烦的，还要被麻花腾薅羊毛，于是就放弃了这一想法。写东西的想法也随之搁置了。</p>
+<p>后来真正促使我建立的博客的契机，还是坑大的 SRTP 项目。导师要求所有人都建立 gayhub 账号，然后把我们拉进一个项目里，要求以后相关内容的推进都在gayhub上完成。于是，我只好终止了白嫖代码的时代，第一次创建了我的 gayhub 账号。</p>
+<p>然而，最终建立博客的决定是摸鱼摸出来的。2020/06/05，即周五上完课后，准备做课程大作业时，习惯性的刷起了 CC98（坑大唯一官方论坛），看见一位论坛老哥的个性签名是他的博客地址，点进去欣赏了之后被“震撼”了，这就是大佬的世界吗？</p>
+<p>这么想来，或许，个人博客才是写些东西的最佳选择，想写就写，无论是可能存在的技术文档（虽然可能性不大），还是个人感想和随笔记录，来看的永远是真的想阅读我的文字的。</p>
+<p>所以，给我也整一个.jpg</p>
+<p>来都来了，反正也是摸鱼，不如摸点有意思的鱼，just for fun！</p>
+<h1 id="v-1-0"><a href="#v-1-0" class="headerlink" title="v 1.0"></a>v 1.0</h1><p>由于那位大佬的博客隐藏了版权信息，我也不知道他是咋整出来的，只能看到地址中的 github。于是只能用搜索引擎搜索 github 搭建博客的信息。如果我没记错的话，github page 官方推荐的是 jekyll 搭建，于是我又搜索如何用 jekyll 搭建博客，最后摸鱼一直摸到晚上，才最终整了个半成品出来，以目前的眼光来看，只能说勉强能用吧，有了基本功能，但不够个性化，太过朴素（不够 cool ）。</p>
+<p>第二天又开始摸鱼，在 CC98 上找了个 Markdown 的语法简单教程，总结（抄袭）了过来，成了第一篇有意义的博客。</p>
+<p>摸了两天鱼后，实在摸不动了。随着期末的来临，只能转身投入到知识的海洋中，准备烤柿粥去了。</p>
+<h1 id="v-2-0"><a href="#v-2-0" class="headerlink" title="v 2.0"></a>v 2.0</h1><p>2020/06/26 下午 2 点进行最后一场考试，考完后到暑期小学期有不少空闲的时间，于是我考完后夜以继日一直调试、配置，直到差不多满意为止（2020/06/30）。老话确实没说错，兴趣果然是“孩子”最好的老师。</p>
+<p>最开始见那位大佬的博客以为要弄很久，准备暑假多花些时间研究学习的，最后其实也还好，感谢所有大佬和 github （开源是程序员最好的美德）。</p>
+<p>现在，终于可以享受乐趣了（后续可能仍有修改）。</p>
+<p>Just for fun，for more fun!</p>
+<blockquote>
+<p>版本日志：<a href="https://lewamlyn.github.io/version/">FUN</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>序言</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>武士零：武士道与赛博朋克</title>
     <url>/2020/07/04/2020-07-04-katana_zero/</url>
     <content><![CDATA[<iframe src="https://store.steampowered.com/widget/460950/" frameborder="0" width="100%" height=190"></iframe>
@@ -158,8 +189,33 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
 <h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用synthwave音乐类型，与cyberpunk结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-CBSbRHOH" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-ylnNzeCw" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>1H 2020</category>
+      </categories>
+      <tags>
+        <tag>平台动作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>奥日与萤火意志：精灵梦醒</title>
+    <url>/2020/07/11/2020-07-11-ori_II/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
+    <div id="aplayer-hrEPBvfy" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
         <category>No game no life</category>
@@ -210,7 +266,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
 <h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
 
-    <div id="aplayer-jUzDEzWl" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-KtwyuzEV" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -219,62 +275,6 @@
       </categories>
       <tags>
         <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奥日与萤火意志：精灵梦醒</title>
-    <url>/2020/07/11/2020-07-11-ori_II/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
-    <div id="aplayer-tIDBlPob" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台动作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Just for fun！</title>
-    <url>/2020/06/28/2020-06-28-preface/</url>
-    <content><![CDATA[<blockquote>
-<p>想写这篇文章很久了，现在在各项内容基本配置完成后，终于有时间来写完了。</p>
-</blockquote>
-<h1 id="v-0-0"><a href="#v-0-0" class="headerlink" title="v 0.0"></a>v 0.0</h1><p>最开始有建一个博客的想法是从想写些自己想写的东西开始的。人毕竟是社交动物嘛，写的东西总是想与人分享，但真的想要下键盘写些东西的时候才发现，对我而言，却没有一个地方适合发些自己的想法和记录。QQ 嘛，太花哨，而且不是很适合记录长文；微信嘛，加的长辈太多，我又不善与人理辩，于是也只能放弃。而且作为社交软件，这二者加的人太多太杂，总之，多有不便。</p>
-<p>一开始的想法是建个微信公众号，我也查了微信公众号的建立流程，感觉也挺麻烦的，还要被麻花腾薅羊毛，于是就放弃了这一想法。写东西的想法也随之搁置了。</p>
-<p>后来真正促使我建立的博客的契机，还是坑大的 SRTP 项目。导师要求所有人都建立 gayhub 账号，然后把我们拉进一个项目里，要求以后相关内容的推进都在gayhub上完成。于是，我只好终止了白嫖代码的时代，第一次创建了我的 gayhub 账号。</p>
-<p>然而，最终建立博客的决定是摸鱼摸出来的。2020/06/05，即周五上完课后，准备做课程大作业时，习惯性的刷起了 CC98（坑大唯一官方论坛），看见一位论坛老哥的个性签名是他的博客地址，点进去欣赏了之后被“震撼”了，这就是大佬的世界吗？</p>
-<p>这么想来，或许，个人博客才是写些东西的最佳选择，想写就写，无论是可能存在的技术文档（虽然可能性不大），还是个人感想和随笔记录，来看的永远是真的想阅读我的文字的。</p>
-<p>所以，给我也整一个.jpg</p>
-<p>来都来了，反正也是摸鱼，不如摸点有意思的鱼，just for fun！</p>
-<h1 id="v-1-0"><a href="#v-1-0" class="headerlink" title="v 1.0"></a>v 1.0</h1><p>由于那位大佬的博客隐藏了版权信息，我也不知道他是咋整出来的，只能看到地址中的 github。于是只能用搜索引擎搜索 github 搭建博客的信息。如果我没记错的话，github page 官方推荐的是 jekyll 搭建，于是我又搜索如何用 jekyll 搭建博客，最后摸鱼一直摸到晚上，才最终整了个半成品出来，以目前的眼光来看，只能说勉强能用吧，有了基本功能，但不够个性化，太过朴素（不够 cool ）。</p>
-<p>第二天又开始摸鱼，在 CC98 上找了个 Markdown 的语法简单教程，总结（抄袭）了过来，成了第一篇有意义的博客。</p>
-<p>摸了两天鱼后，实在摸不动了。随着期末的来临，只能转身投入到知识的海洋中，准备烤柿粥去了。</p>
-<h1 id="v-2-0"><a href="#v-2-0" class="headerlink" title="v 2.0"></a>v 2.0</h1><p>2020/06/26 下午 2 点进行最后一场考试，考完后到暑期小学期有不少空闲的时间，于是我考完后夜以继日一直调试、配置，直到差不多满意为止（2020/06/30）。老话确实没说错，兴趣果然是“孩子”最好的老师。</p>
-<p>最开始见那位大佬的博客以为要弄很久，准备暑假多花些时间研究学习的，最后其实也还好，感谢所有大佬和 github （开源是程序员最好的美德）。</p>
-<p>现在，终于可以享受乐趣了（后续可能仍有修改）。</p>
-<p>Just for fun，for more fun!</p>
-<blockquote>
-<p>版本日志：<a href="https://lewamlyn.github.io/version/">FUN</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>序言</tag>
       </tags>
   </entry>
   <entry>
@@ -325,7 +325,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
 <h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
-    <div id="aplayer-LxKblueg" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-nAcwuZfV" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 
