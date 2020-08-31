@@ -443,4 +443,23 @@
         <tag>Caffe</tag>
       </tags>
   </entry>
+  <entry>
+    <title>记录与监督</title>
+    <url>/2020/08/25/2020-08-25-lose/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">您好, 这里需要密码.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="7a1d4b5ff6e2efee197b08910b996db2c174d0343860bf50dcf3b44cf25aea17">40e8148171d79d4be6fdd7923a2903597ed796f16e13fae6c9841e62cda2ca5702323f4fb3b7a32bdb02d6f9ffd583dcc51e3eacd79a10798e33131a87fa0e0e3cca9f6e6b3d5f397cf30ffff16d15bbe5cd027251f9e6852d1503417c4ee4dd80f7a9e662abef79052c19496512cd5b</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
 </search>
