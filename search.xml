@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My First Post</title>
+    <url>/2020/06/05/2020-06-05-first_post/</url>
+    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
+<p>这是我的第一篇博客。</p>
+</blockquote>
+<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Just for fun！</title>
     <url>/2020/06/28/2020-06-28-preface/</url>
     <content><![CDATA[<blockquote>
@@ -29,6 +44,35 @@
       </categories>
       <tags>
         <tag>序言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>奥日与萤火意志：旧日童话梦醒</title>
+    <url>/2020/07/11/2020-07-11-ori_II/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>最早接触奥日 1 是在高中时候，当时就被奥日的画风和音乐所折服。</p>
+<p>关卡中最惊艳的是逃出水之脉，音乐、画面、动作手感与终于打通的自豪感交融在一起，实在是让人难以忘怀。打通后心里就只有一个想法：出 2 必买，必买首发。</p>
+<p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
+<p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
+<h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
+    <div id="aplayer-HcBSqEkl" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>1H 2020</category>
+      </categories>
+      <tags>
+        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -120,21 +164,6 @@
       </tags>
   </entry>
   <entry>
-    <title>My First Post</title>
-    <url>/2020/06/05/2020-06-05-first_post/</url>
-    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
-<p>这是我的第一篇博客。</p>
-</blockquote>
-<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>武士零：武士道与赛博朋克</title>
     <url>/2020/07/04/2020-07-04-katana_zero/</url>
     <content><![CDATA[<iframe src="https://store.steampowered.com/widget/460950/" frameborder="0" width="100%" height=190"></iframe>
@@ -189,7 +218,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
 <h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用synthwave音乐类型，与cyberpunk结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-dVGSGwsw" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-lEkLMZfY" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -198,35 +227,6 @@
       </categories>
       <tags>
         <tag>平台动作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奥日与萤火意志：旧日童话梦醒</title>
-    <url>/2020/07/11/2020-07-11-ori_II/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>最早接触奥日 1 是在高中时候，当时就被奥日的画风和音乐所折服。</p>
-<p>关卡中最惊艳的是逃出水之脉，音乐、画面、动作手感与终于打通的自豪感交融在一起，实在是让人难以忘怀。打通后心里就只有一个想法：出 2 必买，必买首发。</p>
-<p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
-<p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
-<h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
-    <div id="aplayer-hJWgUpLQ" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -277,64 +277,12 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
 <h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
-    <div id="aplayer-lPhEehwc" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-QGrIyiYC" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 
 <p>如果以上唯美的画风和轻柔的音乐都没能成功打动你，那么你的确与这款游戏有缘无分吧。</p>
 ]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>蔚蓝：拥抱自己拥抱山</title>
-    <url>/2020/07/06/2020-07-07-celeste/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/504230/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第二篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>这款游戏一开始并不是我购买游戏的最优先选择，或许是出于不想再肝游戏的决定，我先推荐给了室友，让他先试试水。后来，一直到了 2020 年 2 月，由于不可抗力的原因，我只能呆在家中，最后无聊透顶，买下了这款游戏打发时间，最终通了一周目，爬上了山顶，吃了草莓派。</p>
-<p>这游戏尽管在传统平台跳跃的基础上没有很大的创新，却在每一个方面都做到了极致。操作感，关卡设计，像素艺术，音乐，都能说的上是游戏界顶尖的水准。无愧于“ TGA 2018 年度最佳独立游戏 ”。</p>
-<p>为了写这篇文章重进了游戏，才发现免费更新了第九章，不说了，又要开启快乐之旅了。</p>
-<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>整个游戏只有跑、跳、冲刺、爬四种基本操作，但当玩家来到一个新的关卡时，总能让玩家绞尽脑汁思考策略，如何通过这种没有着力点的地图；当玩家完成一个关卡时，也总能让玩家获得“这都可以？”的愉悦感与“我竟然过来了！”的成就感。除了基础操作，每关还有不同的辅助机制，弹簧、虚空、泡泡和弹力球等，为玩家提供助推力的同时刷新冲刺，给每关带来了不同的体验。个人最喜欢第六章，与自己的阴影相拥的那一关，跳跃有种酣畅淋漓的感觉。</p>
-<p>可能有人想入手 Celeste ，却被难度劝退。其实，我觉得Celeste能满足从手残玩家直至超级大神的不同需求，就我自己经历而言，通关一周目还是不难的。</p>
-<p>我感觉Celeste的难度曲线已经很平缓了，手残多花点时间就能通关一周目，不会有很强的挫败感。如果玩家还觉得难的话，游戏内置了“协助模式”，有多个降低游戏难度的选项——无敌、无限体力、多一次冲刺/无限冲刺、游戏速度减慢10%/20%/30%/40%/50%。</p>
-<p>而且同许多平面跳跃游戏一样，Celeste 也有非常多的收集要素（ 175 颗草莓，8 个水晶之心和 7 盒磁带）以及隐藏房间，并且二者结合得恰到好处，使得整个旅程都充满了惊喜与挑战。这也使得Celeste的难度是可控的，适当放弃一些草莓可以很明显的降低过关难度。</p>
-<h1 id="拥抱自己"><a href="#拥抱自己" class="headerlink" title="拥抱自己"></a>拥抱自己</h1><div class="note danger">
-            <p>以下含有剧透内容，酌情观看。</p>
-          </div>
-
-<p>玩家在游戏中扮演女主角 Madeline 开始前往山顶的旅程。在爬山的过程中，会遇见很多外力干扰，但最为重要的是，自己的心——另一个充满负面情绪的具象化的自己 Badeline。</p>
-<p>前面几章都有负面情绪的 Badeline 干扰，奚落我们，而到了第六章，boss 追逐战就是无数次与 Badeline 拥抱，直至最终 Madeline 成功追上了 Badeline ，并与她紧紧相拥，完成了自我的接纳。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/NzXpMTY1WDxRdyQ.png" alt="接触"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/4AsUWRM1q3EyBQm.png" alt="相拥"></p>
-<p>最后，接纳了负面情绪的主角成功的登上了那座山，完成了自我的救赎与进化。</p>
-<blockquote>
-<p>为什么要登山？</p>
-<p>因为山就在那里。</p>
-</blockquote>
-<h1 id="像素不素"><a href="#像素不素" class="headerlink" title="像素不素"></a>像素不素</h1><p>尽管游戏采用了像素画风，像素并不意味着粗制滥造，与此相反， Celeste 的画面可谓极其精细，判定结果精准，画风多变。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/oEqnrh5yPOXGLlR.png" alt="1"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/1DsGMrbCzlB5iSw.png" alt="2"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/A4oObWeh1FzSqdc.png" alt="3"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/Nk7xOIFug4t5v2c.png" alt="4"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
-<h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
-
-    <div id="aplayer-HPXfgfqo" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
       <categories>
         <category>No game no life</category>
         <category>1H 2020</category>
@@ -441,6 +389,58 @@
       </categories>
       <tags>
         <tag>Caffe</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蔚蓝：拥抱自己拥抱山</title>
+    <url>/2020/07/06/2020-07-07-celeste/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/504230/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第二篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>这款游戏一开始并不是我购买游戏的最优先选择，或许是出于不想再肝游戏的决定，我先推荐给了室友，让他先试试水。后来，一直到了 2020 年 2 月，由于不可抗力的原因，我只能呆在家中，最后无聊透顶，买下了这款游戏打发时间，最终通了一周目，爬上了山顶，吃了草莓派。</p>
+<p>这游戏尽管在传统平台跳跃的基础上没有很大的创新，却在每一个方面都做到了极致。操作感，关卡设计，像素艺术，音乐，都能说的上是游戏界顶尖的水准。无愧于“ TGA 2018 年度最佳独立游戏 ”。</p>
+<p>为了写这篇文章重进了游戏，才发现免费更新了第九章，不说了，又要开启快乐之旅了。</p>
+<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>整个游戏只有跑、跳、冲刺、爬四种基本操作，但当玩家来到一个新的关卡时，总能让玩家绞尽脑汁思考策略，如何通过这种没有着力点的地图；当玩家完成一个关卡时，也总能让玩家获得“这都可以？”的愉悦感与“我竟然过来了！”的成就感。除了基础操作，每关还有不同的辅助机制，弹簧、虚空、泡泡和弹力球等，为玩家提供助推力的同时刷新冲刺，给每关带来了不同的体验。个人最喜欢第六章，与自己的阴影相拥的那一关，跳跃有种酣畅淋漓的感觉。</p>
+<p>可能有人想入手 Celeste ，却被难度劝退。其实，我觉得Celeste能满足从手残玩家直至超级大神的不同需求，就我自己经历而言，通关一周目还是不难的。</p>
+<p>我感觉Celeste的难度曲线已经很平缓了，手残多花点时间就能通关一周目，不会有很强的挫败感。如果玩家还觉得难的话，游戏内置了“协助模式”，有多个降低游戏难度的选项——无敌、无限体力、多一次冲刺/无限冲刺、游戏速度减慢10%/20%/30%/40%/50%。</p>
+<p>而且同许多平面跳跃游戏一样，Celeste 也有非常多的收集要素（ 175 颗草莓，8 个水晶之心和 7 盒磁带）以及隐藏房间，并且二者结合得恰到好处，使得整个旅程都充满了惊喜与挑战。这也使得Celeste的难度是可控的，适当放弃一些草莓可以很明显的降低过关难度。</p>
+<h1 id="拥抱自己"><a href="#拥抱自己" class="headerlink" title="拥抱自己"></a>拥抱自己</h1><div class="note danger">
+            <p>以下含有剧透内容，酌情观看。</p>
+          </div>
+
+<p>玩家在游戏中扮演女主角 Madeline 开始前往山顶的旅程。在爬山的过程中，会遇见很多外力干扰，但最为重要的是，自己的心——另一个充满负面情绪的具象化的自己 Badeline。</p>
+<p>前面几章都有负面情绪的 Badeline 干扰，奚落我们，而到了第六章，boss 追逐战就是无数次与 Badeline 拥抱，直至最终 Madeline 成功追上了 Badeline ，并与她紧紧相拥，完成了自我的接纳。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/NzXpMTY1WDxRdyQ.png" alt="接触"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/4AsUWRM1q3EyBQm.png" alt="相拥"></p>
+<p>最后，接纳了负面情绪的主角成功的登上了那座山，完成了自我的救赎与进化。</p>
+<blockquote>
+<p>为什么要登山？</p>
+<p>因为山就在那里。</p>
+</blockquote>
+<h1 id="像素不素"><a href="#像素不素" class="headerlink" title="像素不素"></a>像素不素</h1><p>尽管游戏采用了像素画风，像素并不意味着粗制滥造，与此相反， Celeste 的画面可谓极其精细，判定结果精准，画风多变。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/oEqnrh5yPOXGLlR.png" alt="1"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/1DsGMrbCzlB5iSw.png" alt="2"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/A4oObWeh1FzSqdc.png" alt="3"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/Nk7xOIFug4t5v2c.png" alt="4"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
+<h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
+
+    <div id="aplayer-NZJzUICO" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>1H 2020</category>
+      </categories>
+      <tags>
+        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
