@@ -1,94 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Markdown 学习笔记</title>
-    <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
-<blockquote>
-<p>引用</p>
-</blockquote>
-<p>***分割线</p>
-<h4 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h4><ul>
-<li>1</li>
-<li>2</li>
-</ul>
-<h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ol>
-<li>test1</li>
-<li>test2</li>
-</ol>
-<h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="https://lewamlyn.github.io">FUN</a></p>
-<h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src= "/img/loading.gif" data-src="http://maoapp.com/Mou_128.png" alt="picture"></p>
-<h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><p>代码行<code>int a;</code><br>代码段</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span> a=<span class="number">10</span>;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"%d\n"</span>,a++);</span><br></pre></td></tr></table></figure>
-
-<h4 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h4><table>
-<thead>
-<tr>
-<th>Tables</th>
-<th align="center">Are</th>
-<th align="center">Hard</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>First</td>
-<td align="center">Second</td>
-<td align="center">Third</td>
-</tr>
-</tbody></table>
-<h4 id="代办事项"><a href="#代办事项" class="headerlink" title="代办事项"></a>代办事项</h4><ul>
-<li><input checked="" disabled="" type="checkbox"> 已经做完的事情</li>
-<li><input disabled="" type="checkbox"> 还没做的事情</li>
-</ul>
-<h4 id="标签外挂"><a href="#标签外挂" class="headerlink" title="标签外挂"></a>标签外挂</h4><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% note [class] [no-icon] %&#125;</span><br><span class="line">Any content (support inline tags too.io).</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">[class]   : default | primary | success | info | warning | danger.</span><br><span class="line">[no-icon] : Disable icon in note.</span><br><span class="line"></span><br><span class="line">All parameters are optional.</span><br></pre></td></tr></table></figure>
-
-<div class="note default">
-            <p>default 提示块<br>换行测试</p>
-          </div>
-
-<div class="note primary no-icon">
-            <p>primary 提示块</p>
-          </div>
-
-<div class="note success">
-            <p>success 提示块</p>
-          </div>
-
-<div class="note info">
-            <p>info 提示块</p>
-          </div>
-
-<div class="note warning">
-            <p>warning 提示块</p>
-          </div>
-
-<div class="note danger">
-            <p>danger 提示块</p>
-          </div>
-
-<h5 id="隐藏内容"><a href="#隐藏内容" class="headerlink" title="隐藏内容"></a>隐藏内容</h5><p>12345？ <span class="hide-inline"><button class="hide-button button--animated" style="background-color: #FF7242;color: #fff">查看答案
-  </button><span class="hide-content">上山打老虎</span></span></p>
-<h5 id="按钮"><a href="#按钮" class="headerlink" title="按钮"></a>按钮</h5><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% btn [url],[text],[icon],[color] [style] [layout] [position] [size] %&#125;</span><br><span class="line"></span><br><span class="line">[url]         : 鏈接</span><br><span class="line">[text]        : 按鈕文字</span><br><span class="line">[icon]        : [可選] 圖標</span><br><span class="line">[color]       : [可選] 按鈕背景顔色(默認style時）</span><br><span class="line"><span class="code">                      按鈕字體和邊框顔色(outline時)</span></span><br><span class="line"><span class="code">                      default/blue/pink/red/purple/orange/green</span></span><br><span class="line">[style]       : [可選] 按鈕樣式 默認實心</span><br><span class="line"><span class="code">                      outline/留空</span></span><br><span class="line">[layout]      : [可選] 按鈕佈局 默認為line</span><br><span class="line"><span class="code">                      block/留空</span></span><br><span class="line">[position]    : [可選] 按鈕位置 前提是設置了layout為block 默認為左邊</span><br><span class="line"><span class="code">                      center/right/留空</span></span><br><span class="line">[size]        : [可選] 按鈕大小</span><br><span class="line"><span class="code">                      larger/留空</span></span><br></pre></td></tr></table></figure>
-
-<a class="btn-beautify button--animated larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated blue larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated pink larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated red larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated purple larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated orange larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated green larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-
-
-
-
-]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>Markdown</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>My First Post</title>
     <url>/2020/06/05/2020-06-05-first_post/</url>
     <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
@@ -189,7 +101,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
 <h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用synthwave音乐类型，与cyberpunk结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-WQiwKWmd" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-PDxEtRVw" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -198,6 +110,94 @@
       </categories>
       <tags>
         <tag>平台动作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown 学习笔记</title>
+    <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
+<blockquote>
+<p>引用</p>
+</blockquote>
+<p>***分割线</p>
+<h4 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h4><ul>
+<li>1</li>
+<li>2</li>
+</ul>
+<h4 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h4><ol>
+<li>test1</li>
+<li>test2</li>
+</ol>
+<h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="https://lewamlyn.github.io">FUN</a></p>
+<h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src= "/img/loading.gif" data-src="http://maoapp.com/Mou_128.png" alt="picture"></p>
+<h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><p>代码行<code>int a;</code><br>代码段</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span> a=<span class="number">10</span>;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"%d\n"</span>,a++);</span><br></pre></td></tr></table></figure>
+
+<h4 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h4><table>
+<thead>
+<tr>
+<th>Tables</th>
+<th align="center">Are</th>
+<th align="center">Hard</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>First</td>
+<td align="center">Second</td>
+<td align="center">Third</td>
+</tr>
+</tbody></table>
+<h4 id="代办事项"><a href="#代办事项" class="headerlink" title="代办事项"></a>代办事项</h4><ul>
+<li><input checked="" disabled="" type="checkbox"> 已经做完的事情</li>
+<li><input disabled="" type="checkbox"> 还没做的事情</li>
+</ul>
+<h4 id="标签外挂"><a href="#标签外挂" class="headerlink" title="标签外挂"></a>标签外挂</h4><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% note [class] [no-icon] %&#125;</span><br><span class="line">Any content (support inline tags too.io).</span><br><span class="line">&#123;% endnote %&#125;</span><br><span class="line"></span><br><span class="line">[class]   : default | primary | success | info | warning | danger.</span><br><span class="line">[no-icon] : Disable icon in note.</span><br><span class="line"></span><br><span class="line">All parameters are optional.</span><br></pre></td></tr></table></figure>
+
+<div class="note default">
+            <p>default 提示块<br>换行测试</p>
+          </div>
+
+<div class="note primary no-icon">
+            <p>primary 提示块</p>
+          </div>
+
+<div class="note success">
+            <p>success 提示块</p>
+          </div>
+
+<div class="note info">
+            <p>info 提示块</p>
+          </div>
+
+<div class="note warning">
+            <p>warning 提示块</p>
+          </div>
+
+<div class="note danger">
+            <p>danger 提示块</p>
+          </div>
+
+<h5 id="隐藏内容"><a href="#隐藏内容" class="headerlink" title="隐藏内容"></a>隐藏内容</h5><p>12345？ <span class="hide-inline"><button class="hide-button button--animated" style="background-color: #FF7242;color: #fff">查看答案
+  </button><span class="hide-content">上山打老虎</span></span></p>
+<h5 id="按钮"><a href="#按钮" class="headerlink" title="按钮"></a>按钮</h5><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% btn [url],[text],[icon],[color] [style] [layout] [position] [size] %&#125;</span><br><span class="line"></span><br><span class="line">[url]         : 鏈接</span><br><span class="line">[text]        : 按鈕文字</span><br><span class="line">[icon]        : [可選] 圖標</span><br><span class="line">[color]       : [可選] 按鈕背景顔色(默認style時）</span><br><span class="line"><span class="code">                      按鈕字體和邊框顔色(outline時)</span></span><br><span class="line"><span class="code">                      default/blue/pink/red/purple/orange/green</span></span><br><span class="line">[style]       : [可選] 按鈕樣式 默認實心</span><br><span class="line"><span class="code">                      outline/留空</span></span><br><span class="line">[layout]      : [可選] 按鈕佈局 默認為line</span><br><span class="line"><span class="code">                      block/留空</span></span><br><span class="line">[position]    : [可選] 按鈕位置 前提是設置了layout為block 默認為左邊</span><br><span class="line"><span class="code">                      center/right/留空</span></span><br><span class="line">[size]        : [可選] 按鈕大小</span><br><span class="line"><span class="code">                      larger/留空</span></span><br></pre></td></tr></table></figure>
+
+<a class="btn-beautify button--animated larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated blue larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated pink larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated red larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated purple larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated orange larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated green larger" href="https://lewamlyn.github.io" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+
+
+
+
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
       </tags>
   </entry>
   <entry>
@@ -241,7 +241,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
 <h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
 
-    <div id="aplayer-iRseFrZX" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-SSBZWtcd" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -270,7 +270,7 @@
 <p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
 <p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
 <h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
-    <div id="aplayer-DIOjVVkj" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-xhFRshqW" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -329,7 +329,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
 <h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
-    <div id="aplayer-DqhbDXbp" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-SbYRnrcQ" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 
@@ -341,74 +341,6 @@
       </categories>
       <tags>
         <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hipCaffe 安装与实例测试</title>
-    <url>/2020/07/31/2020-07-31-hipCaffe_install/</url>
-    <content><![CDATA[<blockquote>
-<p>应导师要求，在实验机上安装 Caffe ，并使用  GPU 加速。</p>
-<p>查阅资料，hipCaffe 可实现  AMD GPU 加速，现记下我安装过程中遇到的问题及相应的解决方法</p>
-</blockquote>
-<h1 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h1><ul>
-<li><p>系统：ubuntu 18.04</p>
-</li>
-<li><p>CPU：Intel i3-9100</p>
-</li>
-<li><p>GPU：AMD Radeon rx580 2080sp</p>
-</li>
-</ul>
-<h1 id="hipCaffe-安装"><a href="#hipCaffe-安装" class="headerlink" title="hipCaffe 安装"></a>hipCaffe 安装</h1><p><a href="https://github.com/ROCmSoftwarePlatform/hipCaffe/blob/hip/README.ROCm.md" target="_blank" rel="noopener">hipCaffe 官方文档</a></p>
-<p>实验机使用 AMD 显卡，无法使用 caffe-cuda 版本。hipCaffe 可使用 GPU 实现加速。</p>
-<h2 id="安装-AMD-ROCm"><a href="#安装-AMD-ROCm" class="headerlink" title="安装 AMD ROCm"></a>安装 AMD ROCm</h2><p> <a href="https://rocmdocs.amd.com/en/latest/index.html" target="_blank" rel="noopener">AMD ROCm 官方文档</a></p>
-<p>按照官方文档进行安装。</p>
-<h2 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h2><h3 id="安装Caffe依赖项"><a href="#安装Caffe依赖项" class="headerlink" title="安装Caffe依赖项"></a>安装Caffe依赖项</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install \</span><br><span class="line">	pkg-config \</span><br><span class="line">	protobuf-compiler \</span><br><span class="line">	libprotobuf-dev \</span><br><span class="line">	libleveldb-dev \</span><br><span class="line">	libsnappy-dev \</span><br><span class="line">	libhdf5-serial-dev \</span><br><span class="line">	libatlas-base-dev \</span><br><span class="line">	libboost-all-dev \</span><br><span class="line">	libgflags-dev \</span><br><span class="line">	libgoogle-glog-dev \</span><br><span class="line">	liblmdb-dev \</span><br><span class="line">	python-numpy python-scipy python3-dev python-yaml python-pip \</span><br><span class="line">	libopencv-dev \</span><br><span class="line">	libfftw3-dev \</span><br><span class="line">	libelf-dev</span><br></pre></td></tr></table></figure>
-
-<h3 id="安装开发依赖项"><a href="#安装开发依赖项" class="headerlink" title="安装开发依赖项"></a>安装开发依赖项</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install git wget</span><br></pre></td></tr></table></figure>
-
-<h4 id="安装-ROCm-计算库"><a href="#安装-ROCm-计算库" class="headerlink" title="安装 ROCm 计算库"></a>安装 ROCm 计算库</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install rocm-libs miopen-hip miopengemm</span><br></pre></td></tr></table></figure>
-
-<h2 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h2><h3 id="下载-hipCaffe-源码"><a href="#下载-hipCaffe-源码" class="headerlink" title="下载 hipCaffe 源码"></a>下载 hipCaffe 源码</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;ROCmSoftwarePlatform&#x2F;hipCaffe.git</span><br></pre></td></tr></table></figure>
-
-<h3 id="编译-1"><a href="#编译-1" class="headerlink" title="编译"></a>编译</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd hipCaffe</span><br><span class="line">cp .&#x2F;Makefile.config.example .&#x2F;Makefile.config</span><br></pre></td></tr></table></figure>
-
-<p>修改 Makefile.config 文件，OPENCV_VERSION := 3 处去除注释符号。然后编译。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">make -j$(nproc)</span><br></pre></td></tr></table></figure>
-
-<h1 id="hipCaffe-实例"><a href="#hipCaffe-实例" class="headerlink" title="hipCaffe 实例"></a>hipCaffe 实例</h1><p>采用官方文档实例：<a href="https://caffe.berkeleyvision.org/gathered/examples/mnist.html" target="_blank" rel="noopener">LeNet MNIST Turorial</a></p>
-<h2 id="准备数据集"><a href="#准备数据集" class="headerlink" title="准备数据集"></a>准备数据集</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd hipCaffe</span><br><span class="line">sh .&#x2F;data&#x2F;mnist&#x2F;get_mnist.sh</span><br><span class="line">sh .&#x2F;examples&#x2F;mnist&#x2F;create_mnist.sh</span><br></pre></td></tr></table></figure>
-
-<h2 id="更改训练模式"><a href="#更改训练模式" class="headerlink" title="更改训练模式"></a>更改训练模式</h2><p>编辑  hipCaffe/examples/mnist/lenet_solver.prototxt</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># solver mode: CPU or GPU</span><br><span class="line">solver_mode: GPU</span><br></pre></td></tr></table></figure>
-
-<h2 id="训练和测试模型"><a href="#训练和测试模型" class="headerlink" title="训练和测试模型"></a>训练和测试模型</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd hipCaffe</span><br><span class="line">.&#x2F;examples&#x2F;mnist&#x2F;train_lenet.sh</span><br></pre></td></tr></table></figure>
-
-<p>本机耗时不到1分钟后，训练完成，准确性 98.98% ，与此前 Caffe CPU 模式相比大幅减小耗时。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">I1203 solver.cpp:84] Testing net</span><br><span class="line">I1203 solver.cpp:111] Test score #0: 0.9898</span><br><span class="line">I1203 solver.cpp:111] Test score #1: 0.0296162</span><br><span class="line">I1203 solver.cpp:126] Snapshotting to lenet_iter_10000</span><br><span class="line">I1203 solver.cpp:133] Snapshotting solver state to lenet_iter_10000.solverstate</span><br><span class="line">I1203 solver.cpp:78] Optimization Done.</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>学习笔记</category>
-      </categories>
-      <tags>
-        <tag>Caffe</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>记录与监督</title>
-    <url>/2020/08/25/2020-08-25-lose/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <div class="hbe-input-container">
-  <input type="password" id="hbePass" placeholder="" />
-    <label for="hbePass">您好, 这里需要密码.</label>
-    <div class="bottom-line"></div>
-  </div>
-  <script id="hbeData" type="hbeData" data-hmacdigest="7a1d4b5ff6e2efee197b08910b996db2c174d0343860bf50dcf3b44cf25aea17">40e8148171d79d4be6fdd7923a2903597ed796f16e13fae6c9841e62cda2ca5702323f4fb3b7a32bdb02d6f9ffd583dcc51e3eacd79a10798e33131a87fa0e0e3cca9f6e6b3d5f397cf30ffff16d15bbe5cd027251f9e6852d1503417c4ee4dd80f7a9e662abef79052c19496512cd5b</script>
-</div>
-<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
       </tags>
   </entry>
   <entry>
@@ -455,6 +387,74 @@
 
 <p>本机10分钟后，训练完成，准确性 98.97% 。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">I1203 solver.cpp:84] Testing net</span><br><span class="line">I1203 solver.cpp:111] Test score #0: 0.9897</span><br><span class="line">I1203 solver.cpp:111] Test score #1: 0.0324599</span><br><span class="line">I1203 solver.cpp:126] Snapshotting to lenet_iter_10000</span><br><span class="line">I1203 solver.cpp:133] Snapshotting solver state to lenet_iter_10000.solverstate</span><br><span class="line">I1203 solver.cpp:78] Optimization Done.</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>Caffe</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>记录与监督</title>
+    <url>/2020/08/25/2020-08-25-lose/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">您好, 这里需要密码.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="7a1d4b5ff6e2efee197b08910b996db2c174d0343860bf50dcf3b44cf25aea17">40e8148171d79d4be6fdd7923a2903597ed796f16e13fae6c9841e62cda2ca5702323f4fb3b7a32bdb02d6f9ffd583dcc51e3eacd79a10798e33131a87fa0e0e3cca9f6e6b3d5f397cf30ffff16d15bbe5cd027251f9e6852d1503417c4ee4dd80f7a9e662abef79052c19496512cd5b</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hipCaffe 安装与实例测试</title>
+    <url>/2020/07/31/2020-07-31-hipCaffe_install/</url>
+    <content><![CDATA[<blockquote>
+<p>应导师要求，在实验机上安装 Caffe ，并使用  GPU 加速。</p>
+<p>查阅资料，hipCaffe 可实现  AMD GPU 加速，现记下我安装过程中遇到的问题及相应的解决方法</p>
+</blockquote>
+<h1 id="安装环境"><a href="#安装环境" class="headerlink" title="安装环境"></a>安装环境</h1><ul>
+<li><p>系统：ubuntu 18.04</p>
+</li>
+<li><p>CPU：Intel i3-9100</p>
+</li>
+<li><p>GPU：AMD Radeon rx580 2080sp</p>
+</li>
+</ul>
+<h1 id="hipCaffe-安装"><a href="#hipCaffe-安装" class="headerlink" title="hipCaffe 安装"></a>hipCaffe 安装</h1><p><a href="https://github.com/ROCmSoftwarePlatform/hipCaffe/blob/hip/README.ROCm.md" target="_blank" rel="noopener">hipCaffe 官方文档</a></p>
+<p>实验机使用 AMD 显卡，无法使用 caffe-cuda 版本。hipCaffe 可使用 GPU 实现加速。</p>
+<h2 id="安装-AMD-ROCm"><a href="#安装-AMD-ROCm" class="headerlink" title="安装 AMD ROCm"></a>安装 AMD ROCm</h2><p> <a href="https://rocmdocs.amd.com/en/latest/index.html" target="_blank" rel="noopener">AMD ROCm 官方文档</a></p>
+<p>按照官方文档进行安装。</p>
+<h2 id="安装依赖"><a href="#安装依赖" class="headerlink" title="安装依赖"></a>安装依赖</h2><h3 id="安装Caffe依赖项"><a href="#安装Caffe依赖项" class="headerlink" title="安装Caffe依赖项"></a>安装Caffe依赖项</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install \</span><br><span class="line">	pkg-config \</span><br><span class="line">	protobuf-compiler \</span><br><span class="line">	libprotobuf-dev \</span><br><span class="line">	libleveldb-dev \</span><br><span class="line">	libsnappy-dev \</span><br><span class="line">	libhdf5-serial-dev \</span><br><span class="line">	libatlas-base-dev \</span><br><span class="line">	libboost-all-dev \</span><br><span class="line">	libgflags-dev \</span><br><span class="line">	libgoogle-glog-dev \</span><br><span class="line">	liblmdb-dev \</span><br><span class="line">	python-numpy python-scipy python3-dev python-yaml python-pip \</span><br><span class="line">	libopencv-dev \</span><br><span class="line">	libfftw3-dev \</span><br><span class="line">	libelf-dev</span><br></pre></td></tr></table></figure>
+
+<h3 id="安装开发依赖项"><a href="#安装开发依赖项" class="headerlink" title="安装开发依赖项"></a>安装开发依赖项</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install git wget</span><br></pre></td></tr></table></figure>
+
+<h4 id="安装-ROCm-计算库"><a href="#安装-ROCm-计算库" class="headerlink" title="安装 ROCm 计算库"></a>安装 ROCm 计算库</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt-get install rocm-libs miopen-hip miopengemm</span><br></pre></td></tr></table></figure>
+
+<h2 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h2><h3 id="下载-hipCaffe-源码"><a href="#下载-hipCaffe-源码" class="headerlink" title="下载 hipCaffe 源码"></a>下载 hipCaffe 源码</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone https:&#x2F;&#x2F;github.com&#x2F;ROCmSoftwarePlatform&#x2F;hipCaffe.git</span><br></pre></td></tr></table></figure>
+
+<h3 id="编译-1"><a href="#编译-1" class="headerlink" title="编译"></a>编译</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd hipCaffe</span><br><span class="line">cp .&#x2F;Makefile.config.example .&#x2F;Makefile.config</span><br></pre></td></tr></table></figure>
+
+<p>修改 Makefile.config 文件，OPENCV_VERSION := 3 处去除注释符号。然后编译。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">make -j$(nproc)</span><br></pre></td></tr></table></figure>
+
+<h1 id="hipCaffe-实例"><a href="#hipCaffe-实例" class="headerlink" title="hipCaffe 实例"></a>hipCaffe 实例</h1><p>采用官方文档实例：<a href="https://caffe.berkeleyvision.org/gathered/examples/mnist.html" target="_blank" rel="noopener">LeNet MNIST Turorial</a></p>
+<h2 id="准备数据集"><a href="#准备数据集" class="headerlink" title="准备数据集"></a>准备数据集</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd hipCaffe</span><br><span class="line">sh .&#x2F;data&#x2F;mnist&#x2F;get_mnist.sh</span><br><span class="line">sh .&#x2F;examples&#x2F;mnist&#x2F;create_mnist.sh</span><br></pre></td></tr></table></figure>
+
+<h2 id="更改训练模式"><a href="#更改训练模式" class="headerlink" title="更改训练模式"></a>更改训练模式</h2><p>编辑  hipCaffe/examples/mnist/lenet_solver.prototxt</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># solver mode: CPU or GPU</span><br><span class="line">solver_mode: GPU</span><br></pre></td></tr></table></figure>
+
+<h2 id="训练和测试模型"><a href="#训练和测试模型" class="headerlink" title="训练和测试模型"></a>训练和测试模型</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd hipCaffe</span><br><span class="line">.&#x2F;examples&#x2F;mnist&#x2F;train_lenet.sh</span><br></pre></td></tr></table></figure>
+
+<p>本机耗时不到1分钟后，训练完成，准确性 98.98% ，与此前 Caffe CPU 模式相比大幅减小耗时。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">I1203 solver.cpp:84] Testing net</span><br><span class="line">I1203 solver.cpp:111] Test score #0: 0.9898</span><br><span class="line">I1203 solver.cpp:111] Test score #1: 0.0296162</span><br><span class="line">I1203 solver.cpp:126] Snapshotting to lenet_iter_10000</span><br><span class="line">I1203 solver.cpp:133] Snapshotting solver state to lenet_iter_10000.solverstate</span><br><span class="line">I1203 solver.cpp:78] Optimization Done.</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>学习笔记</category>
       </categories>
