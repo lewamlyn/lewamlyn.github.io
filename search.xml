@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My First Post</title>
-    <url>/2020/06/05/2020-06-05-first_post/</url>
-    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
-<p>这是我的第一篇博客。</p>
-</blockquote>
-<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Markdown 学习笔记</title>
     <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
@@ -104,6 +89,21 @@
       </tags>
   </entry>
   <entry>
+    <title>My First Post</title>
+    <url>/2020/06/05/2020-06-05-first_post/</url>
+    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
+<p>这是我的第一篇博客。</p>
+</blockquote>
+<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Just for fun！</title>
     <url>/2020/06/28/2020-06-28-preface/</url>
     <content><![CDATA[<blockquote>
@@ -189,7 +189,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
 <h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用synthwave音乐类型，与cyberpunk结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-cCWqYCwk" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-WBFGGOZn" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -241,7 +241,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
 <h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
 
-    <div id="aplayer-AqYRyqvm" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-pKZPnNHU" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -270,7 +270,7 @@
 <p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
 <p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
 <h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
-    <div id="aplayer-CgLZzEux" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-zarQrlrO" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -380,7 +380,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
 <h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
-    <div id="aplayer-McWFHhlZ" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-odIJBAKZ" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 
@@ -392,25 +392,6 @@
       </categories>
       <tags>
         <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>记录与监督</title>
-    <url>/2020/08/25/2020-08-25-lose/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <div class="hbe-input-container">
-  <input type="password" id="hbePass" placeholder="" />
-    <label for="hbePass">您好, 这里需要密码.</label>
-    <div class="bottom-line"></div>
-  </div>
-  <script id="hbeData" type="hbeData" data-hmacdigest="7a1d4b5ff6e2efee197b08910b996db2c174d0343860bf50dcf3b44cf25aea17">40e8148171d79d4be6fdd7923a2903597ed796f16e13fae6c9841e62cda2ca5702323f4fb3b7a32bdb02d6f9ffd583dcc51e3eacd79a10798e33131a87fa0e0e3cca9f6e6b3d5f397cf30ffff16d15bbe5cd027251f9e6852d1503417c4ee4dd80f7a9e662abef79052c19496512cd5b</script>
-</div>
-<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
       </tags>
   </entry>
   <entry>
@@ -460,6 +441,25 @@
       </categories>
       <tags>
         <tag>Caffe</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>记录与监督</title>
+    <url>/2020/08/25/2020-08-25-lose/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">您好, 这里需要密码.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="7a1d4b5ff6e2efee197b08910b996db2c174d0343860bf50dcf3b44cf25aea17">40e8148171d79d4be6fdd7923a2903597ed796f16e13fae6c9841e62cda2ca5702323f4fb3b7a32bdb02d6f9ffd583dcc51e3eacd79a10798e33131a87fa0e0e3cca9f6e6b3d5f397cf30ffff16d15bbe5cd027251f9e6852d1503417c4ee4dd80f7a9e662abef79052c19496512cd5b</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
       </tags>
   </entry>
 </search>
