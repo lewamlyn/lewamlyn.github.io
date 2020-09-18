@@ -31,7 +31,7 @@
 <li>test1</li>
 <li>test2</li>
 </ol>
-<h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="https://lewamlyn.github.io" target="_blank" rel="noopener">FUN</a></p>
+<h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="https://lewamlyn.top">FUN</a></p>
 <h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src= "/img/loading.gif" data-src="http://maoapp.com/Mou_128.png" alt="picture"></p>
 <h4 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h4><p>代码行<code>int a;</code><br>代码段</p>
 <figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span> a=<span class="number">10</span>;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">"%d\n"</span>,a++);</span><br></pre></td></tr></table></figure>
@@ -84,13 +84,13 @@
   </button><span class="hide-content">上山打老虎</span></span></p>
 <h5 id="按钮"><a href="#按钮" class="headerlink" title="按钮"></a>按钮</h5><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">&#123;% btn [url],[text],[icon],[color] [style] [layout] [position] [size] %&#125;</span><br><span class="line"></span><br><span class="line">[url]         : 鏈接</span><br><span class="line">[text]        : 按鈕文字</span><br><span class="line">[icon]        : [可選] 圖標</span><br><span class="line">[color]       : [可選] 按鈕背景顔色(默認style時）</span><br><span class="line"><span class="code">                      按鈕字體和邊框顔色(outline時)</span></span><br><span class="line"><span class="code">                      default/blue/pink/red/purple/orange/green</span></span><br><span class="line">[style]       : [可選] 按鈕樣式 默認實心</span><br><span class="line"><span class="code">                      outline/留空</span></span><br><span class="line">[layout]      : [可選] 按鈕佈局 默認為line</span><br><span class="line"><span class="code">                      block/留空</span></span><br><span class="line">[position]    : [可選] 按鈕位置 前提是設置了layout為block 默認為左邊</span><br><span class="line"><span class="code">                      center/right/留空</span></span><br><span class="line">[size]        : [可選] 按鈕大小</span><br><span class="line"><span class="code">                      larger/留空</span></span><br></pre></td></tr></table></figure>
 
-<a class="btn-beautify button--animated larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated blue larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated pink larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated red larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated purple larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated orange larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
-<a class="btn-beautify button--animated green larger" href="https://lewamlyn.github.io" target="_blank" rel="noopener" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated blue larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated pink larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated red larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated purple larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated orange larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
+<a class="btn-beautify button--animated green larger" href="https://lewamlyn.top" title="Home"><i class="far fa-hand-point-right fa-fw"></i> Home </a>
 
 
 
@@ -111,7 +111,7 @@
 </blockquote>
 <h1 id="v-0-0"><a href="#v-0-0" class="headerlink" title="v 0.0"></a>v 0.0</h1><p>最开始有建一个博客的想法是从想写些自己想写的东西开始的。人毕竟是社交动物嘛，写的东西总是想与人分享，但真的想要下键盘写些东西的时候才发现，对我而言，却没有一个地方适合发些自己的想法和记录。QQ 嘛，太花哨，而且不是很适合记录长文；微信嘛，加的长辈太多，我又不善与人理辩，于是也只能放弃。而且作为社交软件，这二者加的人太多太杂，总之，多有不便。</p>
 <p>一开始的想法是建个微信公众号，我也查了微信公众号的建立流程，感觉也挺麻烦的，还要被麻花腾薅羊毛，于是就放弃了这一想法。写东西的想法也随之搁置了。</p>
-<p>后来真正促使我建立的博客的契机，还是坑大的 SRTP 项目。导师要求所有人都建立 gayhub 账号，然后把我们拉进一个项目里，要求以后相关内容的推进都在gayhub上完成。于是，我只好终止了白嫖代码的时代，第一次创建了我的 gayhub 账号。</p>
+<p>后来真正促使我建立的博客的契机，还是坑大的 SRTP 项目。导师要求所有人都建立 gayhub 账号，然后把我们拉进一个项目里，要求以后相关内容的推进都在 gayhub 上完成。于是，我只好终止了白嫖代码的时代，第一次创建了我的 gayhub 账号。</p>
 <p>然而，最终建立博客的决定是摸鱼摸出来的。2020/06/05，即周五上完课后，准备做课程大作业时，习惯性的刷起了 CC98（坑大唯一官方论坛），看见一位论坛老哥的个性签名是他的博客地址，点进去欣赏了之后被“震撼”了，这就是大佬的世界吗？</p>
 <p>这么想来，或许，个人博客才是写些东西的最佳选择，想写就写，无论是可能存在的技术文档（虽然可能性不大），还是个人感想和随笔记录，来看的永远是真的想阅读我的文字的。</p>
 <p>所以，给我也整一个.jpg</p>
@@ -168,12 +168,15 @@
 <li>弹反：刀能够弹反子弹，不开子弹时间的弹反的爽点让人难以忘怀</li>
 <li>战斗回放：通过一小节后，会有战斗回放（无子弹时间），给予玩家正面反馈</li>
 </ul>
-<h1 id="止战之殇"><a href="#止战之殇" class="headerlink" title="止战之殇"></a>止战之殇</h1><p>由于DLC内容还未发布，关于剧情，我目前只能得到以下内容：</p>
-<ul>
-<li>炫目的特效：珍爱生命，远离毒品</li>
-<li>战后PTSD，强烈的反战思想</li>
-<li>温柔抚平创伤</li>
-</ul>
+<h1 id="止战之殇"><a href="#止战之殇" class="headerlink" title="止战之殇"></a>止战之殇</h1><div class="note danger">
+            <p>以下含有剧透内容，酌情观看<br>剧情游戏，真 · 谨慎观看</p>
+          </div>
+
+<p>在二十多年前，新麦加政府为了与克罗马农的战争，制造了一种叫柯罗诺斯的药物，然后挑选一些符合要求的小孩子，从小给他们注射药物并在一个秘密基地训练他们，创造出了一支战无不胜攻无不克的小队，这支部队的名字叫“空无”。</p>
+<p>我们的主角就是“空无”中的一个，他们可以在短暂的时间内预知未来，在脑海中演示出无数的可能性，就像上面说的时光回溯，并且可以感受更慢的时间。这样新麦加在与克罗马农的战争中取得了压倒性的优势。但空无战士毫无怜悯之心，他们嗜杀成性，于是百姓的舆论又迫使政府停止生产药物，最终克罗马农赢得了战争的最后胜利。</p>
+<p>时至今日，空无只剩下两人，一个零号，一个十五号 <span class="hide-inline"><button class="hide-button button--animated" style="background-color: #FF7242;color: #fff">点击查看
+  </button><span class="hide-content">（十五号的操作性和游戏性极强，出 DLC 必买）</span></span>。而我们的主角零号不知为何失忆并在一个医生手下做事，帮助他杀死指定的人来获取药物，而医生是政府的人，政府想要清除所有与空无有关的信息，而零号就是那个空无行刑者。</p>
+<p>而在为医生做事的过程中，零号遇见了一个小女孩，小女孩或许是零号心中唯一的慰藉吧。</p>
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/04/whRj3berJUNdoCv.jpg" alt="剧情"></p>
 <h1 id="黑色电影"><a href="#黑色电影" class="headerlink" title="黑色电影"></a>黑色电影</h1><p>尽管游戏是像素画风，但演出效果令人惊艳。</p>
 <ul>
@@ -187,9 +190,9 @@
 <img src= "/img/loading.gif" data-src="https://media.st.dl.pinyuncloud.com/steam/apps/460950/ss_fce2aae6d24fbca70a8196e04f66c51d49a353b0.1920x1080.jpg?t=1593451079" alt="画面1" align=center />
 
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
-<h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用synthwave音乐类型，与cyberpunk结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
+<h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用 Synthwave 音乐类型，与 Cyberpunk 结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-dmfYxCwW" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-RaqlcDsT" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -452,7 +455,7 @@
     <label for="hbePass">您好, 这里需要密码.</label>
     <div class="bottom-line"></div>
   </div>
-  <script id="hbeData" type="hbeData" data-hmacdigest="7a1d4b5ff6e2efee197b08910b996db2c174d0343860bf50dcf3b44cf25aea17">40e8148171d79d4be6fdd7923a2903597ed796f16e13fae6c9841e62cda2ca5702323f4fb3b7a32bdb02d6f9ffd583dcc51e3eacd79a10798e33131a87fa0e0e3cca9f6e6b3d5f397cf30ffff16d15bbe5cd027251f9e6852d1503417c4ee4dd80f7a9e662abef79052c19496512cd5b</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="dff2f245e4da535b092cd75e4e85253a39cf54386aa9c75b6e1089027c060c98">c5d4b7db0f4261825620ded9f0117025a4f4218ec96a9393a816534b52304d79724ba30bc7d154d5f111c29c636183834f238f9a169ee849fdeefd7eb230ed8d145ddc2541a1854eb6fc90421c579123aad172a011677fefd4c67fa984a9e779ff159b194363deb3a5342ad1a2431b0e4556b3b93c2c5d7751c08f66e3383756b679655ac2af4ebe34b6d617e7f3d607df6259031f396d9d90b3ed624cf8c02d2d592998120f299bc3a8e5190bd242ac42b4cf21014a14a7896cbec622c5ce0d2a3d2253eaeec317e1e4034fa638cbd02ca2c76aec15f3bd790cd8eb783b44903defba9b4d6314fb5d3ab943a6eabd2760127922e0212ea2fb6cb384b9a2304dfab5b115927a2fbedb87bcdc3a2b0f291ac8bd5f4ad1fb05f73c652084764ecb25939daec8882d3e5c9ecf3f9241b07881d5a5470e2d4223c99a162d56cfa8d7f464ced07453ba66555d78fcb7a2af764c51acb5ac7ea803577f4e6c922abf4257b2801c9518b78d2b42bb6dd0e4465af9da59fe8922d3618ef056903bc95d09aa4445547e802914b8d3f8e487ce0cffd990208062778e0208fdc278e29283023f78d1e20c843ac42b00179803435b3ae4fa29a0fec8457b172efe8bc6f5c4f425c2873cb57d0d46759a234b9d43ffa6fd6c63451c85eea75ec69a091c1576dde65f313c0d294ed2015606a3e77c63ad229150c86d2f1ef22a3f70321d7702a3fd14e332cad2b8464769e414b9c0b35bd3532837d81ed6e87665c1c16b66e9b8a7e39b05d593c023067f812d2a2f456a128e3c1744ded3fc71fbbe3fa987ba317c7dc2f032e2e18f621e6b63c6be215ecc7822e46dc214b136e469f9e0a170266c5d45d4310deb7fdca95ca6fd51b7a95b75d93a29231cc5174b4a6471aabb21ba7442d5269c6bb32ddd6ac254dfa275099803b35dd199e07349b6a1a20bee2d6b904f87f26f22c43cb27933890f3f89ade0fa402c37f2cc764a57f3bf46e9c1e3a22794a0c8738248921bb317b4c5e41c02ca789a06f9413c9999a8c0c3429bd36afffb714e061bf0e22ba4668a9fea3eadef7ef320948cebab6fd8623ceea5b6d176f8746420e02b12fb00ea0e3815b3d8b3f6899c0c2cff70d0853b547b0b0d19aaeb3161619bd646470193fa67e970e983b5c9201138b13332e4e335cc6a39c4740cd68e38928f7c694145afefdf51862bfbd35bd9c6bbb5148ed39b3e7b3cb9cdac2ce28940a9646cacc6356c6e38d122de9750dd1f0a1d5d37a93a73af4f4d84dda22db2e38bb7a9f25bb02f7154f45662c68c6d42e2c1632b60d6fcf7aa8c1b6dce6a1e634076eab1e155813907a54f7e447a444f0b3f20671fc64b0b4788227022b661cae7cb80ad42385f4d6dee8c6d0274cdfe6652b550dceae2394bf1f40d9cc916c5b3f6672c724ac58bae204db6617c4e50e34e2a384d54ea5be78bd34e76b0ea1faf32f34c20d5a28515b7866d8731ab2941742f026d8a89fc9f11fe1e39e99f15277289d38f9ff3afe0139ef8c8b4f00354795ca8a3681d9f7354bdf4cb91ef4672b3855ae8729f7730949ac0228dce5706274a5d8811bb2ebd9f751c581792db64fbb9c60bb1ac6f9e581e9b5f17c865efb69698d58ac18050ac3d4058127ba273bb7e51efd160ff93637ed07469bae666025935153ae7449d42d745357a667c5d7fd59de98519a56f511081b4c34f0dc4eac7cdee552db55f6afea67f1b1ca43125afe1ee58e92e</script>
 </div>
 <script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
