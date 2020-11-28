@@ -476,7 +476,7 @@
 
 <h3 id="背包问题与记忆功能"><a href="#背包问题与记忆功能" class="headerlink" title="背包问题与记忆功能"></a>背包问题与记忆功能</h3><h4 id="背包问题"><a href="#背包问题" class="headerlink" title="背包问题"></a>背包问题</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">F(i,j) &#x3D; max&#123; F(i−1,j) , vi+F(i−1,j−wi) &#125;	if j−wi≥0</span><br><span class="line">F(i,j) &#x3D; F(i−1,j)							if j−wi&lt;0</span><br><span class="line">F(0,j)&#x3D;0  for j≥0 and F(i,0)&#x3D;0  for i≥0</span><br></pre></td></tr></table></figure>
 
-<p><img src= "/img/loading.gif" data-src="C:%5CUsers%5Clenovo%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201128172148847.png" alt="image-20201128172148847"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/11/28/crTsbFANUwaji89.png" alt="Table.png"></p>
 <h4 id="记忆化"><a href="#记忆化" class="headerlink" title="记忆化"></a>记忆化</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">MFKnapsack(i, j)</span><br><span class="line">&#x2F;&#x2F;Implements the memory function method for the knapsack problem</span><br><span class="line">&#x2F;&#x2F;Input: A nonnegative integeriindicating the number of the first</span><br><span class="line">&#x2F;&#x2F;items being considered and a nonnegative integerjindicating</span><br><span class="line">&#x2F;&#x2F;the knapsack capacity</span><br><span class="line">&#x2F;&#x2F;Output: The value of an optimal feasible subset of the firstiitems</span><br><span class="line">&#x2F;&#x2F;Note: Weights[1..n], Values[1..n] 全局变量</span><br><span class="line">&#x2F;&#x2F;表格F[0..n,0..W] 除了row 0和column 0初始为0，其他初始为-1 </span><br><span class="line">if F[i, j]&lt;0</span><br><span class="line">	if j&lt;Weights[i]</span><br><span class="line">		value←MFKnapsack(i−1,j)</span><br><span class="line">	else</span><br><span class="line">		value←max(MFKnapsack(i−1,j),Values[i]+MFKnapsack(i−1,j−Weights[i]))</span><br><span class="line">	F[i, j]←value</span><br><span class="line">return F[i, j]</span><br></pre></td></tr></table></figure>
 
 <h3 id="最优二叉查找树"><a href="#最优二叉查找树" class="headerlink" title="最优二叉查找树"></a>最优二叉查找树</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">C(i,j) &#x3D; min(i≤k≤j) &#123; C(i,k−1) + C(k+1,j) &#125; + ∑(s&#x3D;i,j)ps  for 1≤i≤j≤n</span><br><span class="line">c(i,i) &#x3D; pi</span><br></pre></td></tr></table></figure>
@@ -577,7 +577,7 @@
 
 <h3 id="Warshall-算法与-Floyd-算法"><a href="#Warshall-算法与-Floyd-算法" class="headerlink" title="Warshall 算法与 Floyd 算法"></a>Warshall 算法与 Floyd 算法</h3><h4 id="Warshall-算法：求解传递闭包"><a href="#Warshall-算法：求解传递闭包" class="headerlink" title="Warshall 算法：求解传递闭包"></a>Warshall 算法：求解传递闭包</h4><p>传递闭包：布尔矩阵，i→j可达，cij=1，否则 cij=0</p>
 <p>R0 = 邻接矩阵</p>
-<p><img src= "/img/loading.gif" data-src="C:%5CUsers%5Clenovo%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201128171309192.png" alt="0→1"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/11/28/49lGmIs8O6RtEjW.png" alt="0→1.png"></p>
 <h4 id="Floyd-算法：求解最短路径"><a href="#Floyd-算法：求解最短路径" class="headerlink" title="Floyd 算法：求解最短路径"></a>Floyd 算法：求解最短路径</h4><p>D0 = 权重矩阵</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">d(k)ij &#x3D; min&#123; d(k−1)ij, d(k−1)ik + d(k−1)kj &#125;	for k≥1</span><br><span class="line">d(0)ij &#x3D; wij</span><br></pre></td></tr></table></figure>
 
