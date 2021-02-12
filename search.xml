@@ -16,6 +16,37 @@
       </tags>
   </entry>
   <entry>
+    <title>Just for fun！</title>
+    <url>/2020/06/28/2020-06-28-preface/</url>
+    <content><![CDATA[<blockquote>
+<p>想写这篇文章很久了，现在在各项内容基本配置完成后，终于有时间来写完了。</p>
+</blockquote>
+<h1 id="v-0-0"><a href="#v-0-0" class="headerlink" title="v 0.0"></a>v 0.0</h1><p>最开始有建一个博客的想法是从想写些自己想写的东西开始的。人毕竟是社交动物嘛，写的东西总是想与人分享，但真的想要下键盘写些东西的时候才发现，对我而言，却没有一个地方适合发些自己的想法和记录。QQ 嘛，太花哨，而且不是很适合记录长文；微信嘛，加的长辈太多，我又不善与人理辩，于是也只能放弃。而且作为社交软件，这二者加的人太多太杂，总之，多有不便。</p>
+<p>一开始的想法是建个微信公众号，我也查了微信公众号的建立流程，感觉也挺麻烦的，还要被麻花腾薅羊毛，于是就放弃了这一想法。写东西的想法也随之搁置了。</p>
+<p>后来真正促使我建立的博客的契机，还是坑大的 SRTP 项目。导师要求所有人都建立 gayhub 账号，然后把我们拉进一个项目里，要求以后相关内容的推进都在 gayhub 上完成。于是，我只好终止了白嫖代码的时代，第一次创建了我的 gayhub 账号。</p>
+<p>然而，最终建立博客的决定是摸鱼摸出来的。2020/06/05，即周五上完课后，准备做课程大作业时，习惯性的刷起了 CC98（坑大唯一官方论坛），看见一位论坛老哥的个性签名是他的博客地址，点进去欣赏了之后被“震撼”了，这就是大佬的世界吗？</p>
+<p>这么想来，或许，个人博客才是写些东西的最佳选择，想写就写，无论是可能存在的技术文档（虽然可能性不大），还是个人感想和随笔记录，来看的永远是真的想阅读我的文字的。</p>
+<p>所以，给我也整一个.jpg</p>
+<p>来都来了，反正也是摸鱼，不如摸点有意思的鱼，just for fun！</p>
+<h1 id="v-1-0"><a href="#v-1-0" class="headerlink" title="v 1.0"></a>v 1.0</h1><p>由于那位大佬的博客隐藏了版权信息，我也不知道他是咋整出来的，只能看到地址中的 github。于是只能用搜索引擎搜索 github 搭建博客的信息。如果我没记错的话，github page 官方推荐的是 jekyll 搭建，于是我又搜索如何用 jekyll 搭建博客，最后摸鱼一直摸到晚上，才最终整了个半成品出来，以目前的眼光来看，只能说勉强能用吧，有了基本功能，但不够个性化，太过朴素（不够 cool ）。</p>
+<p>第二天又开始摸鱼，在 CC98 上找了个 Markdown 的语法简单教程，总结（抄袭）了过来，成了第一篇有意义的博客。</p>
+<p>摸了两天鱼后，实在摸不动了。随着期末的来临，只能转身投入到知识的海洋中，准备烤柿粥去了。</p>
+<h1 id="v-2-0"><a href="#v-2-0" class="headerlink" title="v 2.0"></a>v 2.0</h1><p>2020/06/26 下午 2 点进行最后一场考试，考完后到暑期小学期有不少空闲的时间，于是我考完后夜以继日一直调试、配置，直到差不多满意为止（2020/06/30）。老话确实没说错，兴趣果然是“孩子”最好的老师。</p>
+<p>最开始见那位大佬的博客以为要弄很久，准备暑假多花些时间研究学习的，最后其实也还好，感谢所有大佬和 github （开源是程序员最好的美德）。</p>
+<p>现在，终于可以享受乐趣了（后续可能仍有修改）。</p>
+<p>Just for fun，for more fun!</p>
+<blockquote>
+<p>版本日志：<a href = "/version/" >FUN</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>序言</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown 学习笔记</title>
     <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
@@ -161,7 +192,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
 <h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用 Synthwave 音乐类型，与 Cyberpunk 结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-czRKdpYh" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-LFftZzel" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -170,6 +201,58 @@
       </categories>
       <tags>
         <tag>平台动作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蔚蓝：拥抱自己拥抱山</title>
+    <url>/2020/07/06/2020-07-07-celeste/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/504230/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第二篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>这款游戏一开始并不是我购买游戏的最优先选择，或许是出于不想再肝游戏的决定，我先推荐给了室友，让他先试试水。后来，一直到了 2020 年 2 月，由于不可抗力的原因，我只能呆在家中，最后无聊透顶，买下了这款游戏打发时间，最终通了一周目，爬上了山顶，吃了草莓派。</p>
+<p>这游戏尽管在传统平台跳跃的基础上没有很大的创新，却在每一个方面都做到了极致。操作感，关卡设计，像素艺术，音乐，都能说的上是游戏界顶尖的水准。无愧于“ TGA 2018 年度最佳独立游戏 ”。</p>
+<p>为了写这篇文章重进了游戏，才发现免费更新了第九章，不说了，又要开启快乐之旅了。</p>
+<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>整个游戏只有跑、跳、冲刺、爬四种基本操作，但当玩家来到一个新的关卡时，总能让玩家绞尽脑汁思考策略，如何通过这种没有着力点的地图；当玩家完成一个关卡时，也总能让玩家获得“这都可以？”的愉悦感与“我竟然过来了！”的成就感。除了基础操作，每关还有不同的辅助机制，弹簧、虚空、泡泡和弹力球等，为玩家提供助推力的同时刷新冲刺，给每关带来了不同的体验。个人最喜欢第六章，与自己的阴影相拥的那一关，跳跃有种酣畅淋漓的感觉。</p>
+<p>可能有人想入手 Celeste ，却被难度劝退。其实，我觉得Celeste能满足从手残玩家直至超级大神的不同需求，就我自己经历而言，通关一周目还是不难的。</p>
+<p>我感觉Celeste的难度曲线已经很平缓了，手残多花点时间就能通关一周目，不会有很强的挫败感。如果玩家还觉得难的话，游戏内置了“协助模式”，有多个降低游戏难度的选项——无敌、无限体力、多一次冲刺/无限冲刺、游戏速度减慢10%/20%/30%/40%/50%。</p>
+<p>而且同许多平面跳跃游戏一样，Celeste 也有非常多的收集要素（ 175 颗草莓，8 个水晶之心和 7 盒磁带）以及隐藏房间，并且二者结合得恰到好处，使得整个旅程都充满了惊喜与挑战。这也使得Celeste的难度是可控的，适当放弃一些草莓可以很明显的降低过关难度。</p>
+<h1 id="拥抱自己"><a href="#拥抱自己" class="headerlink" title="拥抱自己"></a>拥抱自己</h1><div class="note danger">
+            <p>以下含有剧透内容，酌情观看。</p>
+          </div>
+
+<p>玩家在游戏中扮演女主角 Madeline 开始前往山顶的旅程。在爬山的过程中，会遇见很多外力干扰，但最为重要的是，自己的心——另一个充满负面情绪的具象化的自己 Badeline。</p>
+<p>前面几章都有负面情绪的 Badeline 干扰，奚落我们，而到了第六章，boss 追逐战就是无数次与 Badeline 拥抱，直至最终 Madeline 成功追上了 Badeline ，并与她紧紧相拥，完成了自我的接纳。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/NzXpMTY1WDxRdyQ.png" alt="接触"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/4AsUWRM1q3EyBQm.png" alt="相拥"></p>
+<p>最后，接纳了负面情绪的主角成功的登上了那座山，完成了自我的救赎与进化。</p>
+<blockquote>
+<p>为什么要登山？</p>
+<p>因为山就在那里。</p>
+</blockquote>
+<h1 id="像素不素"><a href="#像素不素" class="headerlink" title="像素不素"></a>像素不素</h1><p>尽管游戏采用了像素画风，像素并不意味着粗制滥造，与此相反， Celeste 的画面可谓极其精细，判定结果精准，画风多变。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/oEqnrh5yPOXGLlR.png" alt="1"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/1DsGMrbCzlB5iSw.png" alt="2"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/A4oObWeh1FzSqdc.png" alt="3"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/Nk7xOIFug4t5v2c.png" alt="4"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
+<h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
+
+    <div id="aplayer-QevIVQua" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>1H 2020</category>
+      </categories>
+      <tags>
+        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -220,7 +303,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
 <h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
-    <div id="aplayer-OvRelMyH" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-phHblcmI" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 
@@ -232,118 +315,6 @@
       </categories>
       <tags>
         <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>蔚蓝：拥抱自己拥抱山</title>
-    <url>/2020/07/06/2020-07-07-celeste/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/504230/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第二篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>这款游戏一开始并不是我购买游戏的最优先选择，或许是出于不想再肝游戏的决定，我先推荐给了室友，让他先试试水。后来，一直到了 2020 年 2 月，由于不可抗力的原因，我只能呆在家中，最后无聊透顶，买下了这款游戏打发时间，最终通了一周目，爬上了山顶，吃了草莓派。</p>
-<p>这游戏尽管在传统平台跳跃的基础上没有很大的创新，却在每一个方面都做到了极致。操作感，关卡设计，像素艺术，音乐，都能说的上是游戏界顶尖的水准。无愧于“ TGA 2018 年度最佳独立游戏 ”。</p>
-<p>为了写这篇文章重进了游戏，才发现免费更新了第九章，不说了，又要开启快乐之旅了。</p>
-<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>整个游戏只有跑、跳、冲刺、爬四种基本操作，但当玩家来到一个新的关卡时，总能让玩家绞尽脑汁思考策略，如何通过这种没有着力点的地图；当玩家完成一个关卡时，也总能让玩家获得“这都可以？”的愉悦感与“我竟然过来了！”的成就感。除了基础操作，每关还有不同的辅助机制，弹簧、虚空、泡泡和弹力球等，为玩家提供助推力的同时刷新冲刺，给每关带来了不同的体验。个人最喜欢第六章，与自己的阴影相拥的那一关，跳跃有种酣畅淋漓的感觉。</p>
-<p>可能有人想入手 Celeste ，却被难度劝退。其实，我觉得Celeste能满足从手残玩家直至超级大神的不同需求，就我自己经历而言，通关一周目还是不难的。</p>
-<p>我感觉Celeste的难度曲线已经很平缓了，手残多花点时间就能通关一周目，不会有很强的挫败感。如果玩家还觉得难的话，游戏内置了“协助模式”，有多个降低游戏难度的选项——无敌、无限体力、多一次冲刺/无限冲刺、游戏速度减慢10%/20%/30%/40%/50%。</p>
-<p>而且同许多平面跳跃游戏一样，Celeste 也有非常多的收集要素（ 175 颗草莓，8 个水晶之心和 7 盒磁带）以及隐藏房间，并且二者结合得恰到好处，使得整个旅程都充满了惊喜与挑战。这也使得Celeste的难度是可控的，适当放弃一些草莓可以很明显的降低过关难度。</p>
-<h1 id="拥抱自己"><a href="#拥抱自己" class="headerlink" title="拥抱自己"></a>拥抱自己</h1><div class="note danger">
-            <p>以下含有剧透内容，酌情观看。</p>
-          </div>
-
-<p>玩家在游戏中扮演女主角 Madeline 开始前往山顶的旅程。在爬山的过程中，会遇见很多外力干扰，但最为重要的是，自己的心——另一个充满负面情绪的具象化的自己 Badeline。</p>
-<p>前面几章都有负面情绪的 Badeline 干扰，奚落我们，而到了第六章，boss 追逐战就是无数次与 Badeline 拥抱，直至最终 Madeline 成功追上了 Badeline ，并与她紧紧相拥，完成了自我的接纳。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/NzXpMTY1WDxRdyQ.png" alt="接触"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/4AsUWRM1q3EyBQm.png" alt="相拥"></p>
-<p>最后，接纳了负面情绪的主角成功的登上了那座山，完成了自我的救赎与进化。</p>
-<blockquote>
-<p>为什么要登山？</p>
-<p>因为山就在那里。</p>
-</blockquote>
-<h1 id="像素不素"><a href="#像素不素" class="headerlink" title="像素不素"></a>像素不素</h1><p>尽管游戏采用了像素画风，像素并不意味着粗制滥造，与此相反， Celeste 的画面可谓极其精细，判定结果精准，画风多变。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/oEqnrh5yPOXGLlR.png" alt="1"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/1DsGMrbCzlB5iSw.png" alt="2"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/A4oObWeh1FzSqdc.png" alt="3"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/Nk7xOIFug4t5v2c.png" alt="4"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
-<h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
-
-    <div id="aplayer-TVgoLKoF" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奥日与萤火意志：旧日童话梦醒</title>
-    <url>/2020/07/11/2020-07-11-ori_II/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>最早接触奥日 1 是在高中时候，当时就被奥日的画风和音乐所折服。</p>
-<p>关卡中最惊艳的是逃出水之脉，音乐、画面、动作手感与终于打通的自豪感交融在一起，实在是让人难以忘怀。打通后心里就只有一个想法：出 2 必买，必买首发。</p>
-<p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
-<p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
-<h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
-    <div id="aplayer-jznnACHp" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Just for fun！</title>
-    <url>/2020/06/28/2020-06-28-preface/</url>
-    <content><![CDATA[<blockquote>
-<p>想写这篇文章很久了，现在在各项内容基本配置完成后，终于有时间来写完了。</p>
-</blockquote>
-<h1 id="v-0-0"><a href="#v-0-0" class="headerlink" title="v 0.0"></a>v 0.0</h1><p>最开始有建一个博客的想法是从想写些自己想写的东西开始的。人毕竟是社交动物嘛，写的东西总是想与人分享，但真的想要下键盘写些东西的时候才发现，对我而言，却没有一个地方适合发些自己的想法和记录。QQ 嘛，太花哨，而且不是很适合记录长文；微信嘛，加的长辈太多，我又不善与人理辩，于是也只能放弃。而且作为社交软件，这二者加的人太多太杂，总之，多有不便。</p>
-<p>一开始的想法是建个微信公众号，我也查了微信公众号的建立流程，感觉也挺麻烦的，还要被麻花腾薅羊毛，于是就放弃了这一想法。写东西的想法也随之搁置了。</p>
-<p>后来真正促使我建立的博客的契机，还是坑大的 SRTP 项目。导师要求所有人都建立 gayhub 账号，然后把我们拉进一个项目里，要求以后相关内容的推进都在 gayhub 上完成。于是，我只好终止了白嫖代码的时代，第一次创建了我的 gayhub 账号。</p>
-<p>然而，最终建立博客的决定是摸鱼摸出来的。2020/06/05，即周五上完课后，准备做课程大作业时，习惯性的刷起了 CC98（坑大唯一官方论坛），看见一位论坛老哥的个性签名是他的博客地址，点进去欣赏了之后被“震撼”了，这就是大佬的世界吗？</p>
-<p>这么想来，或许，个人博客才是写些东西的最佳选择，想写就写，无论是可能存在的技术文档（虽然可能性不大），还是个人感想和随笔记录，来看的永远是真的想阅读我的文字的。</p>
-<p>所以，给我也整一个.jpg</p>
-<p>来都来了，反正也是摸鱼，不如摸点有意思的鱼，just for fun！</p>
-<h1 id="v-1-0"><a href="#v-1-0" class="headerlink" title="v 1.0"></a>v 1.0</h1><p>由于那位大佬的博客隐藏了版权信息，我也不知道他是咋整出来的，只能看到地址中的 github。于是只能用搜索引擎搜索 github 搭建博客的信息。如果我没记错的话，github page 官方推荐的是 jekyll 搭建，于是我又搜索如何用 jekyll 搭建博客，最后摸鱼一直摸到晚上，才最终整了个半成品出来，以目前的眼光来看，只能说勉强能用吧，有了基本功能，但不够个性化，太过朴素（不够 cool ）。</p>
-<p>第二天又开始摸鱼，在 CC98 上找了个 Markdown 的语法简单教程，总结（抄袭）了过来，成了第一篇有意义的博客。</p>
-<p>摸了两天鱼后，实在摸不动了。随着期末的来临，只能转身投入到知识的海洋中，准备烤柿粥去了。</p>
-<h1 id="v-2-0"><a href="#v-2-0" class="headerlink" title="v 2.0"></a>v 2.0</h1><p>2020/06/26 下午 2 点进行最后一场考试，考完后到暑期小学期有不少空闲的时间，于是我考完后夜以继日一直调试、配置，直到差不多满意为止（2020/06/30）。老话确实没说错，兴趣果然是“孩子”最好的老师。</p>
-<p>最开始见那位大佬的博客以为要弄很久，准备暑假多花些时间研究学习的，最后其实也还好，感谢所有大佬和 github （开源是程序员最好的美德）。</p>
-<p>现在，终于可以享受乐趣了（后续可能仍有修改）。</p>
-<p>Just for fun，for more fun!</p>
-<blockquote>
-<p>版本日志：<a href = "/version/" >FUN</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>序言</tag>
       </tags>
   </entry>
   <entry>
@@ -417,127 +388,32 @@
       </tags>
   </entry>
   <entry>
-    <title>算法设计与分析基础</title>
-    <url>/2020/11/28/2020-11-28-algorithm/</url>
-    <content><![CDATA[<h2 id="Chapter-8-动态规划"><a href="#Chapter-8-动态规划" class="headerlink" title="Chapter 8 动态规划"></a>Chapter 8 动态规划</h2><h3 id="基本例子"><a href="#基本例子" class="headerlink" title="基本例子"></a>基本例子</h3><h4 id="币值最大化问题（Coin-row-problem）"><a href="#币值最大化问题（Coin-row-problem）" class="headerlink" title="币值最大化问题（Coin-row problem）"></a>币值最大化问题（Coin-row problem）</h4><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//ci	币值</span></span><br><span class="line"><span class="comment">//F(n)	n枚硬币最大币值</span></span><br><span class="line">F(n) = <span class="built_in">max</span>&#123;cn+F(n−<span class="number">2</span>), F(n−<span class="number">1</span>)&#125;	<span class="keyword">for</span> n&gt;<span class="number">1</span></span><br><span class="line">F(<span class="number">0</span>) = <span class="number">0</span>	</span><br><span class="line">F(<span class="number">1</span>) = c1</span><br></pre></td></tr></table></figure>
+    <title>奥日与萤火意志：旧日童话梦醒</title>
+    <url>/2020/07/11/2020-07-11-ori_II/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
 
-<h4 id="找零问题（Change-making-problem）"><a href="#找零问题（Change-making-problem）" class="headerlink" title="找零问题（Change-making problem）"></a>找零问题（Change-making problem）</h4><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//dj	币值</span></span><br><span class="line"><span class="comment">//F(n)	n元最小找零数目</span></span><br><span class="line">F(n) = <span class="built_in">min</span>&#123;F(n−dj)&#125;+<span class="number">1</span>    <span class="keyword">for</span> n&gt;<span class="number">0</span></span><br><span class="line">F(<span class="number">0</span>) = <span class="number">0</span></span><br></pre></td></tr></table></figure>
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
+          </div>
 
-<h4 id="硬币收集问题（Robot-Coin-Collection）"><a href="#硬币收集问题（Robot-Coin-Collection）" class="headerlink" title="硬币收集问题（Robot Coin Collection）"></a>硬币收集问题（Robot Coin Collection）</h4><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//cij	(i,j)处币值</span></span><br><span class="line"><span class="comment">//F(i,j)	走到(i,j)处最大币值</span></span><br><span class="line">F(i,j) = <span class="built_in">max</span>&#123; F(i−<span class="number">1</span>,j), F(i,j−<span class="number">1</span>) &#125; + cij	<span class="keyword">for</span> <span class="number">1</span>≤i≤n,<span class="number">1</span>≤j≤m</span><br><span class="line">F(<span class="number">0</span>,j) = <span class="number">0</span>  <span class="keyword">for</span> <span class="number">1</span>≤j≤m <span class="keyword">and</span> F(i,<span class="number">0</span>)=<span class="number">0</span>  <span class="keyword">for</span> <span class="number">1</span>≤i≤n,</span><br></pre></td></tr></table></figure>
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
 
-<h3 id="背包问题与记忆功能"><a href="#背包问题与记忆功能" class="headerlink" title="背包问题与记忆功能"></a>背包问题与记忆功能</h3><h4 id="背包问题"><a href="#背包问题" class="headerlink" title="背包问题"></a>背包问题</h4><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">F(i,j) = <span class="built_in">max</span>&#123; F(i−<span class="number">1</span>,j) , vi+F(i−<span class="number">1</span>,j−wi) &#125;	<span class="keyword">if</span> j−wi≥<span class="number">0</span></span><br><span class="line">F(i,j) = F(i−<span class="number">1</span>,j)	<span class="keyword">if</span> j−wi&lt;<span class="number">0</span></span><br><span class="line">F(<span class="number">0</span>,j)=<span class="number">0</span>  <span class="keyword">for</span> j≥<span class="number">0</span> <span class="keyword">and</span> F(i,<span class="number">0</span>)=<span class="number">0</span>  <span class="keyword">for</span> i≥<span class="number">0</span></span><br></pre></td></tr></table></figure>
-
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/11/28/crTsbFANUwaji89.png" alt="Table.png"></p>
-<h4 id="记忆化"><a href="#记忆化" class="headerlink" title="记忆化"></a>记忆化</h4><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">MFKnapsack(i, j)</span><br><span class="line"><span class="comment">//Implements the memory function method for the knapsack problem</span></span><br><span class="line"><span class="comment">//Input: A nonnegative integeriindicating the number of the first</span></span><br><span class="line"><span class="comment">//items being considered and a nonnegative integerjindicating</span></span><br><span class="line"><span class="comment">//the knapsack capacity</span></span><br><span class="line"><span class="comment">//Output: The value of an optimal feasible subset of the firstiitems</span></span><br><span class="line"><span class="comment">//Note: Weights[1..n], Values[1..n] 全局变量</span></span><br><span class="line"><span class="comment">//表格F[0..n,0..W] 除了row 0和column 0初始为0，其他初始为-1 </span></span><br><span class="line"><span class="keyword">if</span> F[i, j]&lt;<span class="number">0</span></span><br><span class="line">	<span class="keyword">if</span> j&lt;Weights[i]</span><br><span class="line">		value←MFKnapsack(i−<span class="number">1</span>,j)</span><br><span class="line">	<span class="keyword">else</span></span><br><span class="line">		value←<span class="built_in">max</span>(MFKnapsack(i−<span class="number">1</span>,j),Values[i]+MFKnapsack(i−<span class="number">1</span>,j−Weights[i]))</span><br><span class="line">	F[i, j]←value</span><br><span class="line"><span class="keyword">return</span> F[i, j]</span><br></pre></td></tr></table></figure>
-
-<h3 id="最优二叉查找树"><a href="#最优二叉查找树" class="headerlink" title="最优二叉查找树"></a>最优二叉查找树</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line">C(i,j) = <span class="built_in">min</span>(i≤k≤j) &#123; C(i,k−<span class="number">1</span>) + C(k+<span class="number">1</span>,j) &#125; + ∑(s=i,j)ps  <span class="keyword">for</span> <span class="number">1</span>≤i≤j≤n</span><br><span class="line">c(i,i) = pi</span><br></pre></td></tr></table></figure>
-
-<p>主表</p>
-<table>
-<thead>
-<tr>
-<th>0</th>
-<th>1</th>
-<th>……</th>
-<th>……</th>
-<th>n</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>0</td>
-<td>p1</td>
-<td></td>
-<td></td>
-<td>goal</td>
-</tr>
-<tr>
-<td></td>
-<td>0</td>
-<td>pi</td>
-<td>C(i,j)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>0</td>
-<td>pj</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>0</td>
-<td>pn</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>0</td>
-</tr>
-</tbody></table>
-<ul>
-<li>根表</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>0</th>
-<th>1</th>
-<th>……</th>
-<th align="center">……</th>
-<th>n</th>
-</tr>
-</thead>
-<tbody><tr>
-<td></td>
-<td>1</td>
-<td></td>
-<td align="center"></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>i</td>
-<td align="center">make c(i,j) min k value</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td align="center">j</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td align="center"></td>
-<td>n</td>
-</tr>
-</tbody></table>
-<ul>
-<li>伪代码</li>
-</ul>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">OptimalBST(P[<span class="number">1.</span>.n])</span><br><span class="line"><span class="comment">//Finds an optimal binary search tree by dynamic programming</span></span><br><span class="line"><span class="comment">//Input: An arrayP[1..n] of search probabilities for a sorted list ofnkeys</span></span><br><span class="line"><span class="comment">//Output: Average number of comparisons in successful searches in the</span></span><br><span class="line"><span class="comment">//optimal BST and tableRof subtrees’ roots in the optimal BST</span></span><br><span class="line">fori←<span class="number">1</span> to n <span class="keyword">do</span></span><br><span class="line">	C[i,i−<span class="number">1</span>] ← <span class="number">0</span></span><br><span class="line">	C[i,i] ← P[i]</span><br><span class="line">	R[i,i] ← i</span><br><span class="line">C[n+<span class="number">1</span>,n] ← <span class="number">0</span></span><br><span class="line"><span class="keyword">for</span> d←<span class="number">1</span> to n−<span class="number">1</span> <span class="keyword">do</span><span class="comment">//diagonal count</span></span><br><span class="line">	<span class="keyword">for</span> i←<span class="number">1</span> to n−d <span class="keyword">do</span></span><br><span class="line">		j ← i+d </span><br><span class="line">		minval ← ∞</span><br><span class="line">		<span class="keyword">for</span> k ← i to j <span class="keyword">do</span></span><br><span class="line">			<span class="keyword">if</span> C[i,k−<span class="number">1</span>] + C[k+<span class="number">1</span>,j] &lt; minval</span><br><span class="line">				minval ← C[i,k−<span class="number">1</span>]+C[k+<span class="number">1</span>,j]; kmin ← k</span><br><span class="line">		R[i,j] ← kmin</span><br><span class="line">		sum←P[i];<span class="keyword">for</span> s←i+<span class="number">1</span> to j <span class="keyword">do</span> sum ← sum+P[s]</span><br><span class="line">		C[i, j] ← minval+sum</span><br><span class="line"><span class="keyword">return</span> C[<span class="number">1</span>,n],R</span><br></pre></td></tr></table></figure>
-
-<h3 id="Warshall-算法与-Floyd-算法"><a href="#Warshall-算法与-Floyd-算法" class="headerlink" title="Warshall 算法与 Floyd 算法"></a>Warshall 算法与 Floyd 算法</h3><h4 id="Warshall-算法：求解传递闭包"><a href="#Warshall-算法：求解传递闭包" class="headerlink" title="Warshall 算法：求解传递闭包"></a>Warshall 算法：求解传递闭包</h4><p>传递闭包：布尔矩阵，i→j可达，cij=1，否则 cij=0</p>
-<p>R0 = 邻接矩阵</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/11/28/49lGmIs8O6RtEjW.png" alt="0→1.png"></p>
-<h4 id="Floyd-算法：求解最短路径"><a href="#Floyd-算法：求解最短路径" class="headerlink" title="Floyd 算法：求解最短路径"></a>Floyd 算法：求解最短路径</h4><p>D0 = 权重矩阵</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">d(k)ij = <span class="built_in">min</span>&#123; d(k−<span class="number">1</span>)ij, d(k−<span class="number">1</span>)ik + d(k−<span class="number">1</span>)kj &#125;	<span class="keyword">for</span> k≥<span class="number">1</span></span><br><span class="line">d(<span class="number">0</span>)ij = wij</span><br></pre></td></tr></table></figure>
-
-]]></content>
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>最早接触奥日 1 是在高中时候，当时就被奥日的画风和音乐所折服。</p>
+<p>关卡中最惊艳的是逃出水之脉，音乐、画面、动作手感与终于打通的自豪感交融在一起，实在是让人难以忘怀。打通后心里就只有一个想法：出 2 必买，必买首发。</p>
+<p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
+<p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
+<h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
+    <div id="aplayer-aZEuYnYF" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
       <categories>
-        <category>学习笔记</category>
+        <category>No game no life</category>
+        <category>1H 2020</category>
       </categories>
       <tags>
-        <tag>Algorithm</tag>
+        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -588,5 +464,74 @@
       <tags>
         <tag>Caffe</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>独立</title>
+    <url>/2021/02/12/2021-02-12-gl21/</url>
+    <content><![CDATA[<div class="note primary">
+            <p>写在此系列前：<br>为了分享游戏的快乐，将我个人游戏体验写下来，以供参考。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="欺诈之地"><a href="#欺诈之地" class="headerlink" title="欺诈之地"></a>欺诈之地</h1><iframe src="https://store.steampowered.com/widget/601840/" frameborder="0" width="100%" height=190"></iframe>
+
+
+
+<h1 id="There-Is-No-Game-Wrong-Dimension"><a href="#There-Is-No-Game-Wrong-Dimension" class="headerlink" title="There Is No Game: Wrong Dimension"></a>There Is No Game: Wrong Dimension</h1><iframe src="https://store.steampowered.com/widget/1240210/" frameborder="0" width="100%" height=190"></iframe>
+
+<p>在浙大，一年的最后一天叫做“学生节”。这一天学生放假，到了晚上还有跨年晚会，更有校长倾情献唱。但，热闹是他们的，我什么也没有。这款游戏就是我给自己的2020年跨年的礼物。</p>
+<p>只记得那天吃了早饭后，就开始肝这款游戏。这款游戏好玩到了什么地步呢？从早上一直玩到了下午室友叫我一起去食堂白嫖跨年餐，连午餐都没时间吃。</p>
+<p>利用元旦假期迅速通关了这款游戏，游玩体验只有一个字：爽，爽到无以复加。</p>
+<p>6月，在其他游戏都通关后，又重新拿起了这款游戏，才发现原来还有隐藏boss，还是克苏鲁画风，给了我十足的惊喜，找回了小时候打FC游戏的感觉。于是，又花了大量时间通关了困难模式，真是有够爽到。</p>
+<p>可以说，这款游戏真正做到了介绍所说：<strong>在华丽、无情、行云流水般的战斗中发现你的过去</strong>。</p>
+<blockquote>
+<p><strong>朋友发现的有趣彩蛋</strong><br><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/22/e1os8LrgxRKAU4D.png" alt="彩蛋"></p>
+</blockquote>
+<h1 id="Divinity-Original-Sin-2"><a href="#Divinity-Original-Sin-2" class="headerlink" title="Divinity: Original Sin 2"></a>Divinity: Original Sin 2</h1><iframe src="https://store.steampowered.com/widget/435150/" frameborder="0" width="100%" height=190"></iframe>
+
+<p>武士的职业本能就是砍杀，本作的主人公——零号也是如此。在科技感十足的世界，武士如何躲避攻击，用刀杀戮呢？</p>
+<ul>
+<li>刀刀到肉：对敌对己皆是一刀毙命的爽快设计，带来了令人欲罢不能的满足感</li>
+<li>辅助道具：部分难点放有辅助道具帮助击杀敌人</li>
+<li>子弹时间：“咋瓦鲁多“</li>
+<li>无伤突进：躲避子弹和近战攻击</li>
+<li>弹反：刀能够弹反子弹，不开子弹时间的弹反的爽点让人难以忘怀</li>
+<li>战斗回放：通过一小节后，会有战斗回放（无子弹时间），给予玩家正面反馈</li>
+</ul>
+<h1 id="Hades"><a href="#Hades" class="headerlink" title="Hades"></a>Hades</h1><iframe src="https://store.steampowered.com/widget/1145360/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note danger">
+            <p>以下含有剧透内容，酌情观看<br>剧情游戏，真 · 谨慎观看</p>
+          </div>
+
+<p>在二十多年前，新麦加政府为了与克罗马农的战争，制造了一种叫柯罗诺斯的药物，然后挑选一些符合要求的小孩子，从小给他们注射药物并在一个秘密基地训练他们，创造出了一支战无不胜攻无不克的小队，这支部队的名字叫“空无”。</p>
+<p>我们的主角就是“空无”中的一个，他们可以在短暂的时间内预知未来，在脑海中演示出无数的可能性，就像上面说的时光回溯，并且可以感受更慢的时间。这样新麦加在与克罗马农的战争中取得了压倒性的优势。但空无战士毫无怜悯之心，他们嗜杀成性，于是百姓的舆论又迫使政府停止生产药物，最终克罗马农赢得了战争的最后胜利。</p>
+<p>时至今日，空无只剩下两人，一个零号，一个十五号 <span class="hide-inline"><button class="hide-button button--animated" style="background-color: #FF7242;color: #fff">点击查看
+  </button><span class="hide-content">（十五号的操作性和游戏性极强，出 DLC 必买）</span></span>。而我们的主角零号不知为何失忆并在一个医生手下做事，帮助他杀死指定的人来获取药物，而医生是政府的人，政府想要清除所有与空无有关的信息，而零号就是那个空无行刑者。</p>
+<p>而在为医生做事的过程中，零号遇见了一个小女孩，小女孩或许是零号心中唯一的慰藉吧。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/04/whRj3berJUNdoCv.jpg" alt="剧情"></p>
+<h1 id="黑色电影"><a href="#黑色电影" class="headerlink" title="黑色电影"></a>黑色电影</h1><p>尽管游戏是像素画风，但演出效果令人惊艳。</p>
+<ul>
+<li><p>画面充满赛博朋克元素</p>
+</li>
+<li><p>《杀死比尔》一样的暴力美学</p>
+</li>
+<li><p>电影级的运镜：光影变化体现人物内心变化</p>
+</li>
+</ul>
+<img src= "/img/loading.gif" data-src="https://media.st.dl.pinyuncloud.com/steam/apps/460950/ss_fce2aae6d24fbca70a8196e04f66c51d49a353b0.1920x1080.jpg?t=1593451079" alt="画面1" align=center />
+
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1>
+    <div id="aplayer-dWhXVMjn" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="98833463" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>2H 2020</category>
+      </categories>
   </entry>
 </search>
