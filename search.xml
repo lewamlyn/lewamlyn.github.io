@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My First Post</title>
+    <url>/2020/06/05/2020-06-05-first_post/</url>
+    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
+<p>这是我的第一篇博客。</p>
+</blockquote>
+<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown 学习笔记</title>
     <url>/2020/06/06/2020-06-06-Markdown%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<h1 id="大标题"><a href="#大标题" class="headerlink" title="大标题"></a>大标题</h1><h2 id="中标题"><a href="#中标题" class="headerlink" title="中标题"></a>中标题</h2><h3 id="小标题"><a href="#小标题" class="headerlink" title="小标题"></a>小标题</h3><p>这是<strong>粗体</strong>和<em>斜体</em>。</p>
@@ -89,21 +104,6 @@
       </tags>
   </entry>
   <entry>
-    <title>My First Post</title>
-    <url>/2020/06/05/2020-06-05-first_post/</url>
-    <content><![CDATA[<h2 id="Hey"><a href="#Hey" class="headerlink" title="Hey"></a>Hey</h2><blockquote>
-<p>这是我的第一篇博客。</p>
-</blockquote>
-<p>Hello World!<br>    忙中偷闲整了个小博客，希望能坚持下去吧。<br>    ：)</p>
-]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>Life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Just for fun！</title>
     <url>/2020/06/28/2020-06-28-preface/</url>
     <content><![CDATA[<blockquote>
@@ -132,6 +132,58 @@
       </categories>
       <tags>
         <tag>序言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蔚蓝：拥抱自己拥抱山</title>
+    <url>/2020/07/06/2020-07-07-celeste/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/504230/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第二篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>这款游戏一开始并不是我购买游戏的最优先选择，或许是出于不想再肝游戏的决定，我先推荐给了室友，让他先试试水。后来，一直到了 2020 年 2 月，由于不可抗力的原因，我只能呆在家中，最后无聊透顶，买下了这款游戏打发时间，最终通了一周目，爬上了山顶，吃了草莓派。</p>
+<p>这游戏尽管在传统平台跳跃的基础上没有很大的创新，却在每一个方面都做到了极致。操作感，关卡设计，像素艺术，音乐，都能说的上是游戏界顶尖的水准。无愧于“ TGA 2018 年度最佳独立游戏 ”。</p>
+<p>为了写这篇文章重进了游戏，才发现免费更新了第九章，不说了，又要开启快乐之旅了。</p>
+<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>整个游戏只有跑、跳、冲刺、爬四种基本操作，但当玩家来到一个新的关卡时，总能让玩家绞尽脑汁思考策略，如何通过这种没有着力点的地图；当玩家完成一个关卡时，也总能让玩家获得“这都可以？”的愉悦感与“我竟然过来了！”的成就感。除了基础操作，每关还有不同的辅助机制，弹簧、虚空、泡泡和弹力球等，为玩家提供助推力的同时刷新冲刺，给每关带来了不同的体验。个人最喜欢第六章，与自己的阴影相拥的那一关，跳跃有种酣畅淋漓的感觉。</p>
+<p>可能有人想入手 Celeste ，却被难度劝退。其实，我觉得Celeste能满足从手残玩家直至超级大神的不同需求，就我自己经历而言，通关一周目还是不难的。</p>
+<p>我感觉Celeste的难度曲线已经很平缓了，手残多花点时间就能通关一周目，不会有很强的挫败感。如果玩家还觉得难的话，游戏内置了“协助模式”，有多个降低游戏难度的选项——无敌、无限体力、多一次冲刺/无限冲刺、游戏速度减慢10%/20%/30%/40%/50%。</p>
+<p>而且同许多平面跳跃游戏一样，Celeste 也有非常多的收集要素（ 175 颗草莓，8 个水晶之心和 7 盒磁带）以及隐藏房间，并且二者结合得恰到好处，使得整个旅程都充满了惊喜与挑战。这也使得Celeste的难度是可控的，适当放弃一些草莓可以很明显的降低过关难度。</p>
+<h1 id="拥抱自己"><a href="#拥抱自己" class="headerlink" title="拥抱自己"></a>拥抱自己</h1><div class="note danger">
+            <p>以下含有剧透内容，酌情观看。</p>
+          </div>
+
+<p>玩家在游戏中扮演女主角 Madeline 开始前往山顶的旅程。在爬山的过程中，会遇见很多外力干扰，但最为重要的是，自己的心——另一个充满负面情绪的具象化的自己 Badeline。</p>
+<p>前面几章都有负面情绪的 Badeline 干扰，奚落我们，而到了第六章，boss 追逐战就是无数次与 Badeline 拥抱，直至最终 Madeline 成功追上了 Badeline ，并与她紧紧相拥，完成了自我的接纳。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/NzXpMTY1WDxRdyQ.png" alt="接触"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/4AsUWRM1q3EyBQm.png" alt="相拥"></p>
+<p>最后，接纳了负面情绪的主角成功的登上了那座山，完成了自我的救赎与进化。</p>
+<blockquote>
+<p>为什么要登山？</p>
+<p>因为山就在那里。</p>
+</blockquote>
+<h1 id="像素不素"><a href="#像素不素" class="headerlink" title="像素不素"></a>像素不素</h1><p>尽管游戏采用了像素画风，像素并不意味着粗制滥造，与此相反， Celeste 的画面可谓极其精细，判定结果精准，画风多变。</p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/oEqnrh5yPOXGLlR.png" alt="1"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/1DsGMrbCzlB5iSw.png" alt="2"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/A4oObWeh1FzSqdc.png" alt="3"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/Nk7xOIFug4t5v2c.png" alt="4"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
+<h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
+
+    <div id="aplayer-FroIpuon" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>1H 2020</category>
+      </categories>
+      <tags>
+        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -192,7 +244,7 @@
 <p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/07/VjMScThtnG7wYpJ.jpg" alt="画面2"></p>
 <h1 id="复古未来"><a href="#复古未来" class="headerlink" title="复古未来"></a>复古未来</h1><p>游戏配乐采用 Synthwave 音乐类型，与 Cyberpunk 结合，产生奇妙的化学反应。而主人公每次开启关卡时，都会打开随身听，给每关带来独特的视听体验。</p>
 
-    <div id="aplayer-SiDpwxJY" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-hgLzQFnl" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="3213401873" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>]]></content>
       <categories>
@@ -201,149 +253,6 @@
       </categories>
       <tags>
         <tag>平台动作</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>蔚蓝：拥抱自己拥抱山</title>
-    <url>/2020/07/06/2020-07-07-celeste/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/504230/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第二篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>这款游戏一开始并不是我购买游戏的最优先选择，或许是出于不想再肝游戏的决定，我先推荐给了室友，让他先试试水。后来，一直到了 2020 年 2 月，由于不可抗力的原因，我只能呆在家中，最后无聊透顶，买下了这款游戏打发时间，最终通了一周目，爬上了山顶，吃了草莓派。</p>
-<p>这游戏尽管在传统平台跳跃的基础上没有很大的创新，却在每一个方面都做到了极致。操作感，关卡设计，像素艺术，音乐，都能说的上是游戏界顶尖的水准。无愧于“ TGA 2018 年度最佳独立游戏 ”。</p>
-<p>为了写这篇文章重进了游戏，才发现免费更新了第九章，不说了，又要开启快乐之旅了。</p>
-<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>整个游戏只有跑、跳、冲刺、爬四种基本操作，但当玩家来到一个新的关卡时，总能让玩家绞尽脑汁思考策略，如何通过这种没有着力点的地图；当玩家完成一个关卡时，也总能让玩家获得“这都可以？”的愉悦感与“我竟然过来了！”的成就感。除了基础操作，每关还有不同的辅助机制，弹簧、虚空、泡泡和弹力球等，为玩家提供助推力的同时刷新冲刺，给每关带来了不同的体验。个人最喜欢第六章，与自己的阴影相拥的那一关，跳跃有种酣畅淋漓的感觉。</p>
-<p>可能有人想入手 Celeste ，却被难度劝退。其实，我觉得Celeste能满足从手残玩家直至超级大神的不同需求，就我自己经历而言，通关一周目还是不难的。</p>
-<p>我感觉Celeste的难度曲线已经很平缓了，手残多花点时间就能通关一周目，不会有很强的挫败感。如果玩家还觉得难的话，游戏内置了“协助模式”，有多个降低游戏难度的选项——无敌、无限体力、多一次冲刺/无限冲刺、游戏速度减慢10%/20%/30%/40%/50%。</p>
-<p>而且同许多平面跳跃游戏一样，Celeste 也有非常多的收集要素（ 175 颗草莓，8 个水晶之心和 7 盒磁带）以及隐藏房间，并且二者结合得恰到好处，使得整个旅程都充满了惊喜与挑战。这也使得Celeste的难度是可控的，适当放弃一些草莓可以很明显的降低过关难度。</p>
-<h1 id="拥抱自己"><a href="#拥抱自己" class="headerlink" title="拥抱自己"></a>拥抱自己</h1><div class="note danger">
-            <p>以下含有剧透内容，酌情观看。</p>
-          </div>
-
-<p>玩家在游戏中扮演女主角 Madeline 开始前往山顶的旅程。在爬山的过程中，会遇见很多外力干扰，但最为重要的是，自己的心——另一个充满负面情绪的具象化的自己 Badeline。</p>
-<p>前面几章都有负面情绪的 Badeline 干扰，奚落我们，而到了第六章，boss 追逐战就是无数次与 Badeline 拥抱，直至最终 Madeline 成功追上了 Badeline ，并与她紧紧相拥，完成了自我的接纳。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/NzXpMTY1WDxRdyQ.png" alt="接触"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/4AsUWRM1q3EyBQm.png" alt="相拥"></p>
-<p>最后，接纳了负面情绪的主角成功的登上了那座山，完成了自我的救赎与进化。</p>
-<blockquote>
-<p>为什么要登山？</p>
-<p>因为山就在那里。</p>
-</blockquote>
-<h1 id="像素不素"><a href="#像素不素" class="headerlink" title="像素不素"></a>像素不素</h1><p>尽管游戏采用了像素画风，像素并不意味着粗制滥造，与此相反， Celeste 的画面可谓极其精细，判定结果精准，画风多变。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/oEqnrh5yPOXGLlR.png" alt="1"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/1DsGMrbCzlB5iSw.png" alt="2"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/A4oObWeh1FzSqdc.png" alt="3"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/Nk7xOIFug4t5v2c.png" alt="4"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/15/T86fr7nmk45dZQD.png" alt="5"></p>
-<h1 id="与心共鸣"><a href="#与心共鸣" class="headerlink" title="与心共鸣"></a>与心共鸣</h1><p>游戏 BGM 的曲风多变，很多曲子经过变奏，曲风变得截然不同，更为重要的是 BGM 的意境与玩家的心境居然如此贴合，不同关卡中 BGM 的切换也十分自然，极大地提升游戏沉浸式体验的同时，也在向玩家传达女主角 Madeline 的内心情感，最终与玩家与主角达成心灵的共鸣。</p>
-
-    <div id="aplayer-PtIQNgNF" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="75137375" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奥日与萤火意志：旧日童话梦醒</title>
-    <url>/2020/07/11/2020-07-11-ori_II/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>最早接触奥日 1 是在高中时候，当时就被奥日的画风和音乐所折服。</p>
-<p>关卡中最惊艳的是逃出水之脉，音乐、画面、动作手感与终于打通的自豪感交融在一起，实在是让人难以忘怀。打通后心里就只有一个想法：出 2 必买，必买首发。</p>
-<p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
-<p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
-<h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
-    <div id="aplayer-nLvPCNXa" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Gris：寻色之旅</title>
-    <url>/2020/07/12/2020-07-12-gris/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/683320/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note success">
-            <p>此系列为个人向游玩游戏总结，本篇为第四篇。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>此前玩的游戏，无论是奥日2还是蔚蓝，都是有些难度的游戏，游玩节奏略有些紧凑。而这款 gris 是我在周末花了一两个晚上就通关了的游戏，游玩节奏舒缓，我更愿意将其称之为水墨画风的 “ 电影 ” ，亦或者是艺术品，游玩后得到了身心的愉悦，收获了淡淡的感动。</p>
-<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>作为一款解密类平台跳跃的游戏，GRIS的难度较低，游戏性一般，游戏流程较短，约 3 至 4 小时，适合周末抽出一小段时间通关，获得身心的愉悦和视觉的盛宴。</p>
-<p>游戏作为解谜游戏，无死亡机制。玩家通过游戏流程的推进，在每一章获得相应能力，进行解密。</p>
-<ul>
-<li><p>化石：主角把自己化作一块方石，可跳跃借用重力摧毁一些易碎物或固定自身。</p>
-</li>
-<li><p>盈飞：即二段跳，主角可把自己的衣裙化为鸟翼，达到起跳助力和缓冲降落的效果。</p>
-</li>
-<li><p>潜泳：主角变化为鱼，可以在水里呼吸以及游泳冲刺。</p>
-</li>
-<li><p>歌唱：主角找回声音，可在吟唱中打开花朵或使破损物还原。</p>
-</li>
-</ul>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/HSGY41QgxNqKp2f.png" alt="化石"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/LIy7CKQ2OaifYGR.png" alt="盈飞"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/hPY2zCMGdkmOuVF.png" alt="潜泳"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/lvmJQaNDw5sufEj.png" alt="歌唱"></p>
-<h1 id="寻色之旅"><a href="#寻色之旅" class="headerlink" title="寻色之旅"></a>寻色之旅</h1><p>世界随着色彩的增添逐渐美好，如果每一种颜色都象征一种情感，我们又是什么时候逐渐习惯了褪色？试着寻回生活中绚丽多彩的颜色吧！</p>
-<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/Q3YzfIl17bD6ncR.png" alt="灰" style="zoom:100%;" />
-
-<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/kSZwRDrshJCpoxT.gif" alt="红" style="zoom:150%;" />
-
-<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/wUIgGC4VDbkj1Es.gif" alt="绿"  />
-
-<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/TUnwDY6QbZoICKj.gif" alt="蓝" style="zoom:150%;" />
-
-<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/mvOwo3p5UFdHDtg.gif" alt="黄" style="zoom:150%;" />
-
-<h1 id="极致水彩"><a href="#极致水彩" class="headerlink" title="极致水彩"></a>极致水彩</h1><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/rCFWkj4JQX816op.png" alt="地图" style="zoom: 200%;" />
-
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/fR4Zy8LrKoWu7vb.png" alt="黑白灰"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/ACpcoB8TMuY5eSP.png" alt="水晶"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
-<h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
-    <div id="aplayer-mhDMecFn" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>
-
-<p>如果以上唯美的画风和轻柔的音乐都没能成功打动你，那么你的确与这款游戏有缘无分吧。</p>
-]]></content>
-      <categories>
-        <category>No game no life</category>
-        <category>1H 2020</category>
-      </categories>
-      <tags>
-        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -398,22 +307,94 @@
       </tags>
   </entry>
   <entry>
-    <title>记录与监督</title>
-    <url>/2020/08/25/2020-08-25-record/</url>
-    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <div class="hbe-input-container">
-  <input type="password" id="hbePass" placeholder="" />
-    <label for="hbePass">您好, 这里需要密码.</label>
-    <div class="bottom-line"></div>
-  </div>
-  <script id="hbeData" type="hbeData" data-hmacdigest="37570a406404551d8ea62f5e7557fb0dbb4ccc6f1ea1ec77d7ad0e8e73253288">c5d4b7db0f4261825620ded9f0117025a4f4218ec96a9393a816534b52304d79724ba30bc7d154d5f111c29c636183834f238f9a169ee849fdeefd7eb230ed8d145ddc2541a1854eb6fc90421c579123aad172a011677fefd4c67fa984a9e779ff159b194363deb3a5342ad1a2431b0e4556b3b93c2c5d7751c08f66e3383756b679655ac2af4ebe34b6d617e7f3d607df6259031f396d9d90b3ed624cf8c02d2d592998120f299bc3a8e5190bd242ac42b4cf21014a14a7896cbec622c5ce0d2a3d2253eaeec317e1e4034fa638cbd02ca2c76aec15f3bd790cd8eb783b44903defba9b4d6314fb5d3ab943a6eabd2760127922e0212ea2fb6cb384b9a2304dfab5b115927a2fbedb87bcdc3a2b0f291ac8bd5f4ad1fb05f73c652084764ecb25939daec8882d3e5c9ecf3f9241b07881d5a5470e2d4223c99a162d56cfa8d7f464ced07453ba66555d78fcb7a2af764c51acb5ac7ea803577f4e6c922abf4257b2801c9518b78d2b42bb6dd0e4465af9da59fe8922d3618ef056903bc95d09aa4445547e802914b8d3f8e487ce0cffd990208062778e0208fdc278e29283023f78d1e20c843ac42b00179803435b3ae4fa29a0fec8457b172efe8bc6f5c4f425c2873cb57d0d46759a234b9d43ffa6fd6c63451c85eea75ec69a091c1576dde65f313c0d294ed2015606a3e77c63ad229150c86d2f1ef22a3f70321d7702a3fd14e332cad2b8464769e414b9c0b35bd3532837d81ed6e87665c1c16b66e9b8a7e39b05d593c023067f812d2a2f456a128e3c1744ded3fc71fbbe3fa987ba317c7dc2f032e2e18f621e6b63c6be215ecc7822e46dc214b136e469f9e0a170266c5d45d4310deb7fdca95ca6fd51b7a95b75d93a29231cc5174b4a6471aabb21ba7442d5269c6bb32ddd6ac254dfa275099803b35dd199e07349b6a1a20bee2d6b904f87f26f22c43cb27933890f3f89ade0fa402c37f2cc764a57f3bf46e9c1e3a22794a0c8738248921bb317b4c5e41c02ca789a06f9413c9999a8c0c3429bd36afffb714e061bf0e22ba4668a9fea3eadef7ef320948cebab6fd8623ceea5b6d176f8746420e02b12fb00ea0e3815b3d8b3f6899c0c2cff70d0853b547b0b0d19aaeb3161619bd646470193fa67e970e983b5c9201138b13332e4e335cc6a39c4740cd68e38928f7c694145afefdf51862bfbd35bd9c6bbb5148ed39b3e7b3cb9cdac2ce28940a9646cacc6356c6e38d122de9750dd1f0a1d5d37a93a73af4f4d84dda22db2e38bb7a9f25bb02f7154f45662c68c6d42e2c1632b60d6fcf7aa8c1b6dce6a1e634076eab1e155813907a54f7e447a444f0b3f20671fc64b0b4788227022b661cae7cb80ad42385f4d6dee8c6d0274cdfe6652b550dceae2394bf1f40d9cc916c5b3f6672c724ac58bae204db6617c4e50e34e2a384d54ea5be78bd34e76b0ea1faf32f34c20d5a28515b7866d8731ab2941742f026d8a89fc9f11fe1e39e99f15277289d38f9ff3afe0139ef8c8b4f00354795ca8a3681d9f7354bdf4cb91ef4672b3855ae8729f7730949ac0228dce5706274a5d8811bb2ebd9f751c581792db64fbb9c60bb1ac6f9e581e9b5f17c865efb69698d58ac18050ac3d4058127ba273bb7e51efd160ff93637ed07469bae666025935153ae7449d42d745357a667c5d7fd59de98519a56f511081b4c34f0dc4eac7cdee552db5c17fc099cee0c6cf6de880821f48651de3c00ce92a44b58d9c1ee0b2fe9be8c0e75082b4415201fb06b29b948575c561e435e4377e9ce0f9fe92a9a30c6f23fe8c83d617c9390705bdd2ab3e9b10a3affbafd0808a41ba5b3591e95425b4b72296cb7d728ae7039223b8aa6506263ad1199ff7c5b434de4da70448dfd18961c1a89cb7ac89d69755e30d5c4e7d60eeffe353fd2ffe07391ef37b6e6accf57ce11c54c3d39e1ae29dd4e2a4fa52dc84840e989f8a5971f0cefb9b15e45429a2290001bc698ef256f7e3ad4dfd8fe85d7593d82b287b7a4d92d9e68c499680d4ce58974d0ce7de7cffb5d28441d1d025339cf20ba025f37d3aa2b10aac989ccdb312e0d4fea0986ad20d3c01dca6905e7d489b82faecaaab4abc33e1508a471cb84df75ea606de386fa1beaae8e3cf3d54fa40c0dc51c96d3ebabc71e3054a8b37ed3978e6a2647945f1c9dfde6035c6b06c0eb3c204e730200a3113f35568555a91c6d5f1a4ded65dea3c1d9574ee8e8c290dfbc93153b0fc3d07c62975fd1f8964bce5bf324cb3ca9fce5200574bac646b9d2c786b022592f909da54b44eb446654d5d1561f47421d7cbba2c844c7a67227aedb1291c913e4cc35faa84a458af73df2475fe87e463d6b5c17362e5b4ee4dece16747255350f53d1e318ac25a63eda5d1319ca6b27f0d4e6d34e6d03785c952531a63464eca29aad7f243174f0ddc6e13607ba527936726f1194d710fb378cbcd1c3515c94351c977d83e87e863761dda55c31b92279f2df7e87255f6dd6d0dc7aee2402986be578d1556a8928e6a5734ad23782d86eeacf4ea53153dd0ff201ba2f3fc899feb339bdac8cb5115fc06f7ed334a07af08403693e59d6bb93508fefa97de9c8f980bc15866a2717be6b89f1c098fcfe195d28ec94f94dc3b4912f1fca894b6415381965a446a33d108c72ba81330454259df57dd0b481d68c0c3f03b490ff9bad14cf98a8d0df59cf697a9222d07192761bed7d72609cd587ea5f86ff0d2dd6b5dbe39ca44419e6d0dc85295a86a9ccbad21d1af25cb734093cf5a5cdbcfc74829afa395887fe073012c5222252a7a210bb38b23cf8bc4f67c1f9eed3000e401a62320a6b4cc1e33ec1a317c8cd6b2cd163eed75b2bda2476775ad4de98cecbf38d0273992b62eb39aa22b53eb203d11ffc900f37b5aa2c8725291f55e4a95f0f5d53b74e16cd57139b4474cacaba33e13909d073e798e98cc57aca970e1a92e8db8a8e860a4ee7a80182eb952a2e3b68c4d8320153f531bcd8df8c6cade1e97c6d5f4f5a2dfa436593acd3937a3efd6b3a6c3b34b2cc71946aed0e184c9b6b79dc6ff5d6242bb2af77702d89ca96fcfe660e1458f76dd7eee7c7112cb21d1c9a486e141f3f23c9252683a676cc38db79129f0dd00bc8bd1bae204c61b6a990e7b5ea98258dde6ea902cbf9940f7f4a221b21aa46b365aae78785954a9bb3963b4c553ddfafbaa3f321e81a2a7493c8cae2fcbc9fc2895455577e8a12d1f8237d0cc69ba0861f56aa90c48b0bbff3ad9cb416be990882d0762eaa495319de1a93f2f7f8b8b988c23eafbc10bbbf3e4270b302d099139e44bef8d4f280bc03918e0a0b5173b43945e</script>
-</div>
-<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <title>Gris：寻色之旅</title>
+    <url>/2020/07/12/2020-07-12-gris/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/683320/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第四篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>此前玩的游戏，无论是奥日2还是蔚蓝，都是有些难度的游戏，游玩节奏略有些紧凑。而这款 gris 是我在周末花了一两个晚上就通关了的游戏，游玩节奏舒缓，我更愿意将其称之为水墨画风的 “ 电影 ” ，亦或者是艺术品，游玩后得到了身心的愉悦，收获了淡淡的感动。</p>
+<h1 id="游戏机制"><a href="#游戏机制" class="headerlink" title="游戏机制"></a>游戏机制</h1><p>作为一款解密类平台跳跃的游戏，GRIS的难度较低，游戏性一般，游戏流程较短，约 3 至 4 小时，适合周末抽出一小段时间通关，获得身心的愉悦和视觉的盛宴。</p>
+<p>游戏作为解谜游戏，无死亡机制。玩家通过游戏流程的推进，在每一章获得相应能力，进行解密。</p>
+<ul>
+<li><p>化石：主角把自己化作一块方石，可跳跃借用重力摧毁一些易碎物或固定自身。</p>
+</li>
+<li><p>盈飞：即二段跳，主角可把自己的衣裙化为鸟翼，达到起跳助力和缓冲降落的效果。</p>
+</li>
+<li><p>潜泳：主角变化为鱼，可以在水里呼吸以及游泳冲刺。</p>
+</li>
+<li><p>歌唱：主角找回声音，可在吟唱中打开花朵或使破损物还原。</p>
+</li>
+</ul>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/HSGY41QgxNqKp2f.png" alt="化石"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/LIy7CKQ2OaifYGR.png" alt="盈飞"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/hPY2zCMGdkmOuVF.png" alt="潜泳"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/lvmJQaNDw5sufEj.png" alt="歌唱"></p>
+<h1 id="寻色之旅"><a href="#寻色之旅" class="headerlink" title="寻色之旅"></a>寻色之旅</h1><p>世界随着色彩的增添逐渐美好，如果每一种颜色都象征一种情感，我们又是什么时候逐渐习惯了褪色？试着寻回生活中绚丽多彩的颜色吧！</p>
+<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/Q3YzfIl17bD6ncR.png" alt="灰" style="zoom:100%;" />
+
+<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/kSZwRDrshJCpoxT.gif" alt="红" style="zoom:150%;" />
+
+<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/wUIgGC4VDbkj1Es.gif" alt="绿"  />
+
+<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/TUnwDY6QbZoICKj.gif" alt="蓝" style="zoom:150%;" />
+
+<img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/mvOwo3p5UFdHDtg.gif" alt="黄" style="zoom:150%;" />
+
+<h1 id="极致水彩"><a href="#极致水彩" class="headerlink" title="极致水彩"></a>极致水彩</h1><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/12/rCFWkj4JQX816op.png" alt="地图" style="zoom: 200%;" />
+
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/fR4Zy8LrKoWu7vb.png" alt="黑白灰"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/ACpcoB8TMuY5eSP.png" alt="水晶"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/13/iJQBdS2RYfnXUMW.png" alt="伙伴"></p>
+<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/18/X91lpQZhR6DBLGr.jpg" alt="飞跃"></p>
+<h1 id="舒缓轻柔"><a href="#舒缓轻柔" class="headerlink" title="舒缓轻柔"></a>舒缓轻柔</h1>
+    <div id="aplayer-scRzBnlb" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="74765645" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>
+
+<p>如果以上唯美的画风和轻柔的音乐都没能成功打动你，那么你的确与这款游戏有缘无分吧。</p>
+]]></content>
       <categories>
-        <category>随笔</category>
+        <category>No game no life</category>
+        <category>1H 2020</category>
       </categories>
       <tags>
-        <tag>Life</tag>
+        <tag>平台跳跃</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>奥日与萤火意志：旧日童话梦醒</title>
+    <url>/2020/07/11/2020-07-11-ori_II/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/1057090/" frameborder="0" width="100%" height=190"></iframe>
+
+<div class="note success">
+            <p>此系列为个人向游玩游戏总结，本篇为第三篇。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="游玩经历"><a href="#游玩经历" class="headerlink" title="游玩经历"></a>游玩经历</h1><p>最早接触奥日 1 是在高中时候，当时就被奥日的画风和音乐所折服。</p>
+<p>关卡中最惊艳的是逃出水之脉，音乐、画面、动作手感与终于打通的自豪感交融在一起，实在是让人难以忘怀。打通后心里就只有一个想法：出 2 必买，必买首发。</p>
+<p>就这样等了一年又一年，奥日 2 今年 3 月终于发售了，我也第一时间买了首发，那个上天入地的奥日又回来了。</p>
+<p>由于我是第一时间玩的，发售的很多 bug 尚未修复：汉化口口口，爆音，挑战模式卡顿，极少情况下手柄还会失灵，但我还是第一时间就通关了，而且实现了全收藏。当然，在我写这篇文章时，这些 bug 也早已修复，不必担心这些问题害怕入手。去除掉 bug 带来的不良体验，玩完 2 后，怎么说呢？奥日 2 依旧是一款好游戏，甚至是值得因此入独立游戏坑的游戏，但它再没有第一代带给我的惊艳之感了。而且，就二代剧情而言，可能奥日系列也就此结束了吧，残念啊。</p>
+<h1 id="机制"><a href="#机制" class="headerlink" title="机制"></a>机制</h1><h1 id="剧情"><a href="#剧情" class="headerlink" title="剧情"></a>剧情</h1><h1 id="画面"><a href="#画面" class="headerlink" title="画面"></a>画面</h1><h1 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h1>
+    <div id="aplayer-MtIENyqT" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="86100098" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>1H 2020</category>
+      </categories>
+      <tags>
+        <tag>平台跳跃</tag>
       </tags>
   </entry>
   <entry>
@@ -466,6 +447,42 @@
       </tags>
   </entry>
   <entry>
+    <title>2020下半年游戏小结</title>
+    <url>/2021/02/12/2021-02-12-game20/</url>
+    <content><![CDATA[<div class="note primary">
+            <p>写在此系列前：<br>为了分享游戏的快乐，将我个人游戏体验写下来，以供参考。</p>
+          </div>
+
+<div class="note info">
+            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
+          </div>
+
+<h1 id="欺诈之地"><a href="#欺诈之地" class="headerlink" title="欺诈之地"></a>欺诈之地</h1><iframe src="https://store.steampowered.com/widget/601840/" frameborder="0" width="100%" height=190"></iframe>
+
+
+
+<h1 id="There-Is-No-Game-Wrong-Dimension"><a href="#There-Is-No-Game-Wrong-Dimension" class="headerlink" title="There Is No Game: Wrong Dimension"></a>There Is No Game: Wrong Dimension</h1><iframe src="https://store.steampowered.com/widget/1240210/" frameborder="0" width="100%" height=190"></iframe>
+
+
+
+<h1 id="Divinity-Original-Sin-2"><a href="#Divinity-Original-Sin-2" class="headerlink" title="Divinity: Original Sin 2"></a>Divinity: Original Sin 2</h1><iframe src="https://store.steampowered.com/widget/435150/" frameborder="0" width="100%" height=190"></iframe>
+
+
+
+<h1 id="Hades"><a href="#Hades" class="headerlink" title="Hades"></a>Hades</h1><iframe src="https://store.steampowered.com/widget/1145360/" frameborder="0" width="100%" height=190"></iframe>
+
+
+
+<h1 id="BGM"><a href="#BGM" class="headerlink" title="BGM"></a>BGM</h1>
+    <div id="aplayer-gAtLCTdG" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="98833463" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
+    ></div>]]></content>
+      <categories>
+        <category>No game no life</category>
+        <category>2H 2020</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Ultra96v2</title>
     <url>/2021/02/25/2021-02-25-ultra96/</url>
     <content><![CDATA[<blockquote>
@@ -490,60 +507,22 @@
       </tags>
   </entry>
   <entry>
-    <title>2020下半年游戏小结</title>
-    <url>/2021/02/12/2021-02-12-game20/</url>
-    <content><![CDATA[<div class="note primary">
-            <p>写在此系列前：<br>为了分享游戏的快乐，将我个人游戏体验写下来，以供参考。</p>
-          </div>
-
-<div class="note info">
-            <p>本文内容只代表个人游玩体验，不一定代表游戏实际内容，仅供参考。</p>
-          </div>
-
-<h1 id="欺诈之地"><a href="#欺诈之地" class="headerlink" title="欺诈之地"></a>欺诈之地</h1><iframe src="https://store.steampowered.com/widget/601840/" frameborder="0" width="100%" height=190"></iframe>
-
-
-
-<h1 id="There-Is-No-Game-Wrong-Dimension"><a href="#There-Is-No-Game-Wrong-Dimension" class="headerlink" title="There Is No Game: Wrong Dimension"></a>There Is No Game: Wrong Dimension</h1><iframe src="https://store.steampowered.com/widget/1240210/" frameborder="0" width="100%" height=190"></iframe>
-
-<p>在浙大，一年的最后一天叫做“学生节”。这一天学生放假，到了晚上还有跨年晚会，更有校长倾情献唱。但，热闹是他们的，我什么也没有。这款游戏就是我给自己的2020年跨年的礼物。</p>
-<p>只记得那天吃了早饭后，就开始肝这款游戏。这款游戏好玩到了什么地步呢？从早上一直玩到了下午室友叫我一起去食堂白嫖跨年餐，连午餐都没时间吃。</p>
-<p>利用元旦假期迅速通关了这款游戏，游玩体验只有一个字：爽，爽到无以复加。</p>
-<p>6月，在其他游戏都通关后，又重新拿起了这款游戏，才发现原来还有隐藏boss，还是克苏鲁画风，给了我十足的惊喜，找回了小时候打FC游戏的感觉。于是，又花了大量时间通关了困难模式，真是有够爽到。</p>
-<p>可以说，这款游戏真正做到了介绍所说：<strong>在华丽、无情、行云流水般的战斗中发现你的过去</strong>。</p>
-<blockquote>
-<p><strong>朋友发现的有趣彩蛋</strong><br><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/22/e1os8LrgxRKAU4D.png" alt="彩蛋"></p>
-</blockquote>
-<h1 id="Divinity-Original-Sin-2"><a href="#Divinity-Original-Sin-2" class="headerlink" title="Divinity: Original Sin 2"></a>Divinity: Original Sin 2</h1><iframe src="https://store.steampowered.com/widget/435150/" frameborder="0" width="100%" height=190"></iframe>
-
-<p>武士的职业本能就是砍杀，本作的主人公——零号也是如此。在科技感十足的世界，武士如何躲避攻击，用刀杀戮呢？</p>
-<ul>
-<li>刀刀到肉：对敌对己皆是一刀毙命的爽快设计，带来了令人欲罢不能的满足感</li>
-<li>辅助道具：部分难点放有辅助道具帮助击杀敌人</li>
-<li>子弹时间：“咋瓦鲁多“</li>
-<li>无伤突进：躲避子弹和近战攻击</li>
-<li>弹反：刀能够弹反子弹，不开子弹时间的弹反的爽点让人难以忘怀</li>
-<li>战斗回放：通过一小节后，会有战斗回放（无子弹时间），给予玩家正面反馈</li>
-</ul>
-<h1 id="Hades"><a href="#Hades" class="headerlink" title="Hades"></a>Hades</h1><iframe src="https://store.steampowered.com/widget/1145360/" frameborder="0" width="100%" height=190"></iframe>
-
-<div class="note danger">
-            <p>以下含有剧透内容，酌情观看<br>剧情游戏，真 · 谨慎观看</p>
-          </div>
-
-<p>在二十多年前，新麦加政府为了与克罗马农的战争，制造了一种叫柯罗诺斯的药物，然后挑选一些符合要求的小孩子，从小给他们注射药物并在一个秘密基地训练他们，创造出了一支战无不胜攻无不克的小队，这支部队的名字叫“空无”。</p>
-<p>我们的主角就是“空无”中的一个，他们可以在短暂的时间内预知未来，在脑海中演示出无数的可能性，就像上面说的时光回溯，并且可以感受更慢的时间。这样新麦加在与克罗马农的战争中取得了压倒性的优势。但空无战士毫无怜悯之心，他们嗜杀成性，于是百姓的舆论又迫使政府停止生产药物，最终克罗马农赢得了战争的最后胜利。</p>
-<p>时至今日，空无只剩下两人，一个零号，一个十五号 <span class="hide-inline"><button class="hide-button button--animated" style="background-color: #FF7242;color: #fff">点击查看
-  </button><span class="hide-content">（十五号的操作性和游戏性极强，出 DLC 必买）</span></span>。而我们的主角零号不知为何失忆并在一个医生手下做事，帮助他杀死指定的人来获取药物，而医生是政府的人，政府想要清除所有与空无有关的信息，而零号就是那个空无行刑者。</p>
-<p>而在为医生做事的过程中，零号遇见了一个小女孩，小女孩或许是零号心中唯一的慰藉吧。</p>
-<p><img src= "/img/loading.gif" data-src="https://i.loli.net/2020/07/04/whRj3berJUNdoCv.jpg" alt="剧情"></p>
-<h1 id="BGM"><a href="#BGM" class="headerlink" title="BGM"></a>BGM</h1>
-    <div id="aplayer-nqikPRiJ" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="98833463" data-server="netease" data-type="album" data-mode="circulation" data-autoplay="true" data-mutex="true" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
-    ></div>]]></content>
+    <title>记录与监督</title>
+    <url>/2020/08/25/2020-08-25-record/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">您好, 这里需要密码.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="37570a406404551d8ea62f5e7557fb0dbb4ccc6f1ea1ec77d7ad0e8e73253288">c5d4b7db0f4261825620ded9f0117025a4f4218ec96a9393a816534b52304d79724ba30bc7d154d5f111c29c636183834f238f9a169ee849fdeefd7eb230ed8d145ddc2541a1854eb6fc90421c579123aad172a011677fefd4c67fa984a9e779ff159b194363deb3a5342ad1a2431b0e4556b3b93c2c5d7751c08f66e3383756b679655ac2af4ebe34b6d617e7f3d607df6259031f396d9d90b3ed624cf8c02d2d592998120f299bc3a8e5190bd242ac42b4cf21014a14a7896cbec622c5ce0d2a3d2253eaeec317e1e4034fa638cbd02ca2c76aec15f3bd790cd8eb783b44903defba9b4d6314fb5d3ab943a6eabd2760127922e0212ea2fb6cb384b9a2304dfab5b115927a2fbedb87bcdc3a2b0f291ac8bd5f4ad1fb05f73c652084764ecb25939daec8882d3e5c9ecf3f9241b07881d5a5470e2d4223c99a162d56cfa8d7f464ced07453ba66555d78fcb7a2af764c51acb5ac7ea803577f4e6c922abf4257b2801c9518b78d2b42bb6dd0e4465af9da59fe8922d3618ef056903bc95d09aa4445547e802914b8d3f8e487ce0cffd990208062778e0208fdc278e29283023f78d1e20c843ac42b00179803435b3ae4fa29a0fec8457b172efe8bc6f5c4f425c2873cb57d0d46759a234b9d43ffa6fd6c63451c85eea75ec69a091c1576dde65f313c0d294ed2015606a3e77c63ad229150c86d2f1ef22a3f70321d7702a3fd14e332cad2b8464769e414b9c0b35bd3532837d81ed6e87665c1c16b66e9b8a7e39b05d593c023067f812d2a2f456a128e3c1744ded3fc71fbbe3fa987ba317c7dc2f032e2e18f621e6b63c6be215ecc7822e46dc214b136e469f9e0a170266c5d45d4310deb7fdca95ca6fd51b7a95b75d93a29231cc5174b4a6471aabb21ba7442d5269c6bb32ddd6ac254dfa275099803b35dd199e07349b6a1a20bee2d6b904f87f26f22c43cb27933890f3f89ade0fa402c37f2cc764a57f3bf46e9c1e3a22794a0c8738248921bb317b4c5e41c02ca789a06f9413c9999a8c0c3429bd36afffb714e061bf0e22ba4668a9fea3eadef7ef320948cebab6fd8623ceea5b6d176f8746420e02b12fb00ea0e3815b3d8b3f6899c0c2cff70d0853b547b0b0d19aaeb3161619bd646470193fa67e970e983b5c9201138b13332e4e335cc6a39c4740cd68e38928f7c694145afefdf51862bfbd35bd9c6bbb5148ed39b3e7b3cb9cdac2ce28940a9646cacc6356c6e38d122de9750dd1f0a1d5d37a93a73af4f4d84dda22db2e38bb7a9f25bb02f7154f45662c68c6d42e2c1632b60d6fcf7aa8c1b6dce6a1e634076eab1e155813907a54f7e447a444f0b3f20671fc64b0b4788227022b661cae7cb80ad42385f4d6dee8c6d0274cdfe6652b550dceae2394bf1f40d9cc916c5b3f6672c724ac58bae204db6617c4e50e34e2a384d54ea5be78bd34e76b0ea1faf32f34c20d5a28515b7866d8731ab2941742f026d8a89fc9f11fe1e39e99f15277289d38f9ff3afe0139ef8c8b4f00354795ca8a3681d9f7354bdf4cb91ef4672b3855ae8729f7730949ac0228dce5706274a5d8811bb2ebd9f751c581792db64fbb9c60bb1ac6f9e581e9b5f17c865efb69698d58ac18050ac3d4058127ba273bb7e51efd160ff93637ed07469bae666025935153ae7449d42d745357a667c5d7fd59de98519a56f511081b4c34f0dc4eac7cdee552db5c17fc099cee0c6cf6de880821f48651de3c00ce92a44b58d9c1ee0b2fe9be8c0e75082b4415201fb06b29b948575c561e435e4377e9ce0f9fe92a9a30c6f23fe8c83d617c9390705bdd2ab3e9b10a3affbafd0808a41ba5b3591e95425b4b72296cb7d728ae7039223b8aa6506263ad1199ff7c5b434de4da70448dfd18961c1a89cb7ac89d69755e30d5c4e7d60eeffe353fd2ffe07391ef37b6e6accf57ce11c54c3d39e1ae29dd4e2a4fa52dc84840e989f8a5971f0cefb9b15e45429a2290001bc698ef256f7e3ad4dfd8fe85d7593d82b287b7a4d92d9e68c499680d4ce58974d0ce7de7cffb5d28441d1d025339cf20ba025f37d3aa2b10aac989ccdb312e0d4fea0986ad20d3c01dca6905e7d489b82faecaaab4abc33e1508a471cb84df75ea606de386fa1beaae8e3cf3d54fa40c0dc51c96d3ebabc71e3054a8b37ed3978e6a2647945f1c9dfde6035c6b06c0eb3c204e730200a3113f35568555a91c6d5f1a4ded65dea3c1d9574ee8e8c290dfbc93153b0fc3d07c62975fd1f8964bce5bf324cb3ca9fce5200574bac646b9d2c786b022592f909da54b44eb446654d5d1561f47421d7cbba2c844c7a67227aedb1291c913e4cc35faa84a458af73df2475fe87e463d6b5c17362e5b4ee4dece16747255350f53d1e318ac25a63eda5d1319ca6b27f0d4e6d34e6d03785c952531a63464eca29aad7f243174f0ddc6e13607ba527936726f1194d710fb378cbcd1c3515c94351c977d83e87e863761dda55c31b92279f2df7e87255f6dd6d0dc7aee2402986be578d1556a8928e6a5734ad23782d86eeacf4ea53153dd0ff201ba2f3fc899feb339bdac8cb5115fc06f7ed334a07af08403693e59d6bb93508fefa97de9c8f980bc15866a2717be6b89f1c098fcfe195d28ec94f94dc3b4912f1fca894b6415381965a446a33d108c72ba81330454259df57dd0b481d68c0c3f03b490ff9bad14cf98a8d0df59cf697a9222d07192761bed7d72609cd587ea5f86ff0d2dd6b5dbe39ca44419e6d0dc85295a86a9ccbad21d1af25cb734093cf5a5cdbcfc74829afa395887fe073012c5222252a7a210bb38b23cf8bc4f67c1f9eed3000e401a62320a6b4cc1e33ec1a317c8cd6b2cd163eed75b2bda2476775ad4de98cecbf38d0273992b62eb39aa22b53eb203d11ffc900f37b5aa2c8725291f55e4a95f0f5d53b74e16cd57139b4474cacaba33e13909d073e798e98cc57aca970e1a92e8db8a8e860a4ee7a80182eb952a2e3b68c4d8320153f531bcd8df8c6cade1e97c6d5f4f5a2dfa436593acd3937a3efd6b3a6c3b34b2cc71946aed0e184c9b6b79dc6ff5d6242bb2af77702d89ca96fcfe660e1458f76dd7eee7c7112cb21d1c9a486e141f3f23c9252683a676cc38db79129f0dd00bc8bd1bae204c61b6a990e7b5ea98258dde6ea902cbf9940f7f4a221b21aa46b365aae78785954a9bb3963b4c553ddfafbaa3f321e81a2a7493c8cae2fcbc9fc2895455577e8a12d1f8237d0cc69ba0861f56aa90c48b0bbff3ad9cb416be990882d0762eaa495319de1a93f2f7f8b8b988c23eafbc10bbbf3e4270b302d099139e44bef8d4f280bc03918e0a0b5173b43945e</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-        <category>No game no life</category>
-        <category>2H 2020</category>
+        <category>随笔</category>
       </categories>
+      <tags>
+        <tag>Life</tag>
+      </tags>
   </entry>
 </search>
